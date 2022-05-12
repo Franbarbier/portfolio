@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1132 547" style="enable-background:new 0 0 1132 547;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st2{fill:url(#SVGID_1_);stroke:#000000;stroke-miterlimit:10;}
+	.st3{fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-miterlimit:10;}
+	.st4{fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-miterlimit:10;}
+	.st5{fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-miterlimit:10;}
+	.st6{fill:none;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;}
+	.st7{fill:none;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;stroke-dasharray:2,2;}
+	.st8{clip-path:url(#XMLID_2_);fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.st9{clip-path:url(#XMLID_2_);}
+	.st10{clip-path:url(#XMLID_3_);fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.st11{fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
+	.st12{clip-path:url(#XMLID_4_);fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.st13{clip-path:url(#XMLID_4_);}
+	.st14{clip-path:url(#XMLID_5_);fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.st15{clip-path:url(#XMLID_6_);fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.st16{clip-path:url(#XMLID_6_);}
+	.st17{clip-path:url(#XMLID_7_);fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.st18{clip-path:url(#XMLID_8_);fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.st19{clip-path:url(#XMLID_8_);}
+	.st20{clip-path:url(#XMLID_9_);fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	svg{transition:.3s;}
+</style>
+
+<g id="Layer_7">
+	<rect id="rect1" y="-1" class="st0" width="51" height="565"/>
+	<line id="linea1Top" class="st0" x1="1" y1="22" x2="1130" y2="22"/>
+	<circle id="circuloMasNav" class="st1" cx="25.5" cy="10.5" r="7.5"/>
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="14.9984" y1="72.9572" x2="34.0016" y2="40.0428">
+	</linearGradient>
+	<circle id="circuloUser" class="st2" cx="24.5" cy="56.5" r="19"/>
+	<circle id="circuloNav1" class="st1" cx="25.5" cy="135.5" r="12"/>
+	<circle id="circuloNav2" class="st1" cx="24.5" cy="176.5" r="12"/>
+	<circle id="circuloNav3" class="st1" cx="25.5" cy="214.5" r="12"/>
+	<circle id="circuloNav4" class="st1" cx="26" cy="268" r="12"/>
+	<line id="flechita1" class="st1" x1="13.5" y1="537.5" x2="33.5" y2="517.5"/>
+	<line id="flechita2" class="st1" x1="19.5" y1="538.5" x2="39.5" y2="518.5"/>
+	<line id="breadCrumb" class="st3" x1="66.5" y1="10.5" x2="105.5" y2="10.5"/>
+	<rect id="box1" x="90.5" y="34.5" class="st4 boxes" width="200" height="64"/>
+	<rect id="box2" x="373" y="35" class="st4 boxes" width="200" height="64"/>
+	<rect id="box3" x="657" y="35" class="st4 boxes" width="200" height="64"/>
+	<line id="textBox1" class="st4 textBoxes" x1="124" y1="44" x2="178" y2="44"/>
+	<line id="textBox2" class="st4 textBoxes" x1="124" y1="87" x2="236" y2="87"/>
+	<line id="textBox3" class="st4 textBoxes" x1="409" y1="45" x2="491" y2="45"/>
+	<line id="textBox4" class="st4 textBoxes" x1="409" y1="87" x2="530" y2="87"/>
+	<line id="textBox5" class="st4 textBoxes" x1="692" y1="87" x2="809" y2="87"/>
+	<line id="textBox6" class="st4 textBoxes" x1="693" y1="44" x2="781" y2="44"/>
+	<path class="st4 numBoxes" d="M162,77h-28c-5.52,0-10-4.48-10-10v0c0-5.52,4.48-10,10-10h28c5.52,0,10,4.48,10,10v0
+		C172,72.52,167.52,77,162,77z"/>
+	<path class="st4 numBoxes" d="M470,77h-53c-5.52,0-10-4.48-10-10v0c0-5.52,4.48-10,10-10h53c5.52,0,10,4.48,10,10v0
+		C480,72.52,475.52,77,470,77z"/>
+	<path class="st4 numBoxes" d="M729,75h-28c-5.52,0-10-4.48-10-10v0c0-5.52,4.48-10,10-10h28c5.52,0,10,4.48,10,10v0
+		C739,70.52,734.52,75,729,75z"/>
+	<line id="tituloLeads" class="st5" x1="97" y1="143" x2="498" y2="143"/>
+	<circle class="st6 circuloLeads" cx="548" cy="142" r="7"/>
+	<circle class="st6 circuloLeads" cx="595" cy="143" r="7"/>
+	<line class="st4 tituloTable" x1="101.5" y1="184.5" x2="124.5" y2="184.5"/>
+	<line class="st4 tituloTable" x1="143" y1="185" x2="195" y2="185"/>
+	<line class="st4 tituloTable" x1="308" y1="184" x2="402" y2="184"/>
+	<line class="st4 tituloTable" x1="433" y1="184" x2="491" y2="184"/>
+	<line class="st4 tituloTable" x1="510" y1="185" x2="548" y2="185"/>
+	<line class="st6 primeraFila" x1="143" y1="218.42" x2="229" y2="218.42"/>
+	<line class="st6 primeraFila" x1="310.5" y1="218.42" x2="356.5" y2="218.42"/>
+	<line class="st6 primeraFila" x1="434.5" y1="218.42" x2="481.5" y2="218.42"/>
+	<line class="st6 primeraFila" x1="511.5" y1="218.42" x2="554.5" y2="218.42"/>
+	<circle class="st6 primeraFila" cx="112.5" cy="218.42" r="5.5"/>
+	<circle class="st6 primeraFila" cx="583.5" cy="218.42" r="6.5"/>
+	<line class="st6 segundaFila" x1="143" y1="252.42" x2="229" y2="252.42"/>
+	<line class="st6 segundaFila" x1="310.5" y1="252.42" x2="356.5" y2="252.42"/>
+	<line class="st6 segundaFila" x1="434.5" y1="252.42" x2="481.5" y2="252.42"/>
+	<line class="st6 segundaFila" x1="511.5" y1="252.42" x2="554.5" y2="252.42"/>
+	<circle class="st6 segundaFila" cx="112.5" cy="252.42" r="5.5"/>
+	<circle class="st6 segundaFila" cx="583.5" cy="252.42" r="6.5"/>
+	<line class="st6 terceraFila" x1="142" y1="287.42" x2="228" y2="287.42"/>
+	<line class="st6 terceraFila" x1="309.5" y1="287.42" x2="355.5" y2="287.42"/>
+	<line class="st6 terceraFila" x1="433.5" y1="287.42" x2="480.5" y2="287.42"/>
+	<line class="st6 terceraFila" x1="510.5" y1="287.42" x2="553.5" y2="287.42"/>
+	<circle class="st6 terceraFila" cx="111.5" cy="287.42" r="5.5"/>
+	<circle class="st6 terceraFila" cx="582.5" cy="287.42" r="6.5"/>
+	<line class="st6 cuartaFila" x1="142" y1="321.42" x2="228" y2="321.42"/>
+	<line class="st6 cuartaFila" x1="309.5" y1="321.42" x2="355.5" y2="321.42"/>
+	<line class="st6 cuartaFila" x1="433.5" y1="321.42" x2="480.5" y2="321.42"/>
+	<line class="st6 cuartaFila" x1="510.5" y1="321.42" x2="553.5" y2="321.42"/>
+	<circle class="st6 cuartaFila" cx="111.5" cy="321.42" r="5.5"/>
+	<circle class="st6 cuartaFila" cx="582.5" cy="321.42" r="6.5"/>
+	<line class="st6 quintaFila" x1="142" y1="355.42" x2="228" y2="355.42"/>
+	<line class="st6 quintaFila" x1="309.5" y1="355.42" x2="355.5" y2="355.42"/>
+	<line class="st6 quintaFila" x1="433.5" y1="355.42" x2="480.5" y2="355.42"/>
+	<line class="st6 quintaFila" x1="510.5" y1="355.42" x2="553.5" y2="355.42"/>
+	<circle class="st6 quintaFila" cx="111.5" cy="355.42" r="5.5"/>
+	<circle class="st6 quintaFila" cx="582.5" cy="355.42" r="6.5"/>
+	<g class="quintaFila">
+		<g>
+			<line class="st6" x1="90.5" y1="339.5" x2="91.5" y2="339.5"/>
+			<line class="st7" x1="93.5" y1="339.5" x2="604.5" y2="339.5"/>
+			<line class="st6" x1="605.5" y1="339.5" x2="606.5" y2="339.5"/>
+		</g>
+	</g>
+	<g class="cuartaFila">
+		<g>
+			<line class="st6" x1="88.5" y1="306.5" x2="89.5" y2="306.5"/>
+			<line class="st7" x1="91.5" y1="306.5" x2="602.5" y2="306.5"/>
+			<line class="st6" x1="603.5" y1="306.5" x2="604.5" y2="306.5"/>
+		</g>
+	</g>
+	<g class="terceraFila">
+		<g>
+			<line class="st6" x1="89.5" y1="271.5" x2="90.5" y2="271.5"/>
+			<line class="st7" x1="92.5" y1="271.5" x2="603.5" y2="271.5"/>
+			<line class="st6" x1="604.5" y1="271.5" x2="605.5" y2="271.5"/>
+		</g>
+	</g>
+	<g class="segundaFila">
+		<g>
+			<line class="st6" x1="90.5" y1="237.5" x2="91.5" y2="237.5"/>
+			<line class="st7" x1="93.5" y1="237.5" x2="604.5" y2="237.5"/>
+			<line class="st6" x1="605.5" y1="237.5" x2="606.5" y2="237.5"/>
+		</g>
+	</g>
+	<g class="primeraFila">
+		<g>
+			<line class="st6" x1="90.5" y1="204.5" x2="91.5" y2="204.5"/>
+			<line class="st7" x1="93.5" y1="204.5" x2="604.5" y2="204.5"/>
+			<line class="st6" x1="605.5" y1="204.5" x2="606.5" y2="204.5"/>
+		</g>
+	</g>
+	<line id="tituloFunnel" class="st5" x1="662" y1="143" x2="756" y2="143"/>
+	<g>
+		<defs id="barrita1" class="barritas">
+			<path id="XMLID_17_" d="M891.25,328h-224c-0.55,0-1-0.45-1-1v-24c0-0.55,0.45-1,1-1h224c0.55,0,1,0.45,1,1v24
+				C892.25,327.55,891.8,328,891.25,328z"/>
+		</defs>
+		<clipPath id="XMLID_2_">
+			<use xlink:href="#XMLID_17_"  style="overflow:visible;"/>
+		</clipPath>
+		<path id="XMLID_18_" class="st8" d="M889.25,387h-224c-0.55,0-1-0.45-1-1v-24c0-0.55,0.45-1,1-1h224c0.55,0,1,0.45,1,1v24
+			C890.25,386.55,889.8,387,889.25,387z"/>
+		<g class="st9">
+			<defs>
+				<path id="XMLID_19_" d="M891.25,271h-224c-0.55,0-1-0.45-1-1v-24c0-0.55,0.45-1,1-1h224c0.55,0,1,0.45,1,1v24
+					C892.25,270.55,891.8,271,891.25,271z"/>
+			</defs>
+			<clipPath id="XMLID_3_">
+				<use xlink:href="#XMLID_19_"  style="overflow:visible;"/>
+			</clipPath>
+			<path id="XMLID_20_" class="st10" d="M889.25,330h-224c-0.55,0-1-0.45-1-1v-24c0-0.55,0.45-1,1-1h224c0.55,0,1,0.45,1,1v24
+				C890.25,329.55,889.8,330,889.25,330z"/>
+			<use xlink:href="#XMLID_19_"  style="overflow:visible;fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;"/>
+		</g>
+		<use xlink:href="#XMLID_17_"  style="overflow:visible;fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;"/>
+	</g>
+	<line class="st11 personasXetapa" x1="930" y1="196" x2="959" y2="196"/>
+	<line class="st11 personasXetapa" x1="937.5" y1="255.5" x2="959.5" y2="255.5"/>
+	<line class="st11 personasXetapa" x1="937.5" y1="313.5" x2="958.5" y2="313.5"/>
+	<line class="st11 personasXetapa" x1="945.5" y1="368.5" x2="960.5" y2="368.5"/>
+	<line class="st0 porcentajeXetapa" x1="940.5" y1="210.5" x2="957.5" y2="210.5"/>
+	<line class="st0 porcentajeXetapa" x1="940" y1="269" x2="959" y2="269"/>
+	<line class="st0 porcentajeXetapa" x1="939" y1="327" x2="955" y2="327"/>
+	<line class="st0 porcentajeXetapa" x1="946" y1="388" x2="958" y2="388"/>
+	<line class="st0 leadPromedio" x1="671" y1="426" x2="869" y2="426"/>
+	<line class="st0 nombreEtapas" x1="669" y1="396" x2="706" y2="396"/>
+	<line class="st0 nombreEtapas" x1="667" y1="338" x2="699" y2="338"/>
+	<line class="st0 nombreEtapas" x1="668" y1="281" x2="747" y2="281"/>
+	<line class="st0 nombreEtapas" x1="667" y1="222" x2="722" y2="222"/>
+	<g>
+		<defs id="barrita2" class="barritas">
+			<path id="XMLID_21_" d="M891.25,269h-224c-0.55,0-1-0.45-1-1v-24c0-0.55,0.45-1,1-1h224c0.55,0,1,0.45,1,1v24
+				C892.25,268.55,891.8,269,891.25,269z"/>
+		</defs>
+		<clipPath id="XMLID_4_">
+			<use xlink:href="#XMLID_21_"  style="overflow:visible;"/>
+		</clipPath>
+		<path id="XMLID_24_" class="st12" d="M889.25,328h-224c-0.55,0-1-0.45-1-1v-24c0-0.55,0.45-1,1-1h224c0.55,0,1,0.45,1,1v24
+			C890.25,327.55,889.8,328,889.25,328z"/>
+		<g class="st13">
+			<defs>
+				<path id="XMLID_22_" d="M891.25,212h-224c-0.55,0-1-0.45-1-1v-24c0-0.55,0.45-1,1-1h224c0.55,0,1,0.45,1,1v24
+					C892.25,211.55,891.8,212,891.25,212z"/>
+			</defs>
+			<clipPath id="XMLID_5_">
+				<use xlink:href="#XMLID_22_"  style="overflow:visible;"/>
+			</clipPath>
+			<path id="XMLID_23_" class="st14" d="M889.25,271h-224c-0.55,0-1-0.45-1-1v-24c0-0.55,0.45-1,1-1h224c0.55,0,1,0.45,1,1v24
+				C890.25,270.55,889.8,271,889.25,271z"/>
+			<use xlink:href="#XMLID_22_"  style="overflow:visible;fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;"/>
+		</g>
+		<use xlink:href="#XMLID_21_"  style="overflow:visible;fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;"/>
+	</g>
+	<g>
+		<defs id="barrita3" class="barritas">
+			<path id="XMLID_25_" d="M891.25,212h-224c-0.55,0-1-0.45-1-1v-24c0-0.55,0.45-1,1-1h224c0.55,0,1,0.45,1,1v24
+				C892.25,211.55,891.8,212,891.25,212z"/>
+		</defs>
+		<clipPath id="XMLID_6_">
+			<use xlink:href="#XMLID_25_"  style="overflow:visible;"/>
+		</clipPath>
+		<path id="XMLID_28_" class="st15" d="M889.25,271h-224c-0.55,0-1-0.45-1-1v-24c0-0.55,0.45-1,1-1h224c0.55,0,1,0.45,1,1v24
+			C890.25,270.55,889.8,271,889.25,271z"/>
+		<g class="st16">
+			<defs>
+				<path id="XMLID_26_" d="M891.25,155h-224c-0.55,0-1-0.45-1-1v-24c0-0.55,0.45-1,1-1h224c0.55,0,1,0.45,1,1v24
+					C892.25,154.55,891.8,155,891.25,155z"/>
+			</defs>
+			<clipPath id="XMLID_7_">
+				<use xlink:href="#XMLID_26_"  style="overflow:visible;"/>
+			</clipPath>
+			<path id="XMLID_27_" class="st17" d="M889.25,214h-224c-0.55,0-1-0.45-1-1v-24c0-0.55,0.45-1,1-1h224c0.55,0,1,0.45,1,1v24
+				C890.25,213.55,889.8,214,889.25,214z"/>
+			<use xlink:href="#XMLID_26_"  style="overflow:visible;fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;"/>
+		</g>
+		<use xlink:href="#XMLID_25_"  style="overflow:visible;fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;"/>
+	</g>
+	<g>
+		<defs id="barrita4" class="barritas">
+			<path id="XMLID_29_" d="M891.25,386h-224c-0.55,0-1-0.45-1-1v-24c0-0.55,0.45-1,1-1h224c0.55,0,1,0.45,1,1v24
+				C892.25,385.55,891.8,386,891.25,386z"/>
+		</defs>
+		<clipPath id="XMLID_8_">
+			<use xlink:href="#XMLID_29_"  style="overflow:visible;"/>
+		</clipPath>
+		<path id="XMLID_32_" class="st18" d="M889.25,445h-224c-0.55,0-1-0.45-1-1v-24c0-0.55,0.45-1,1-1h224c0.55,0,1,0.45,1,1v24
+			C890.25,444.55,889.8,445,889.25,445z"/>
+		<g class="st19">
+			<defs>
+				<path id="XMLID_30_" d="M891.25,329h-224c-0.55,0-1-0.45-1-1v-24c0-0.55,0.45-1,1-1h224c0.55,0,1,0.45,1,1v24
+					C892.25,328.55,891.8,329,891.25,329z"/>
+			</defs>
+			<clipPath id="XMLID_9_">
+				<use xlink:href="#XMLID_30_"  style="overflow:visible;"/>
+			</clipPath>
+			<path id="XMLID_31_" class="st20" d="M889.25,388h-224c-0.55,0-1-0.45-1-1v-24c0-0.55,0.45-1,1-1h224c0.55,0,1,0.45,1,1v24
+				C890.25,387.55,889.8,388,889.25,388z"/>
+			<use xlink:href="#XMLID_30_"  style="overflow:visible;fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;"/>
+		</g>
+		<use xlink:href="#XMLID_29_"  style="overflow:visible;fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;"/>
+	</g>
+</g>
+</svg>

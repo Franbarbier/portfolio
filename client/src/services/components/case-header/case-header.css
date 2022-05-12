@@ -1,0 +1,29 @@
+#CaseHeader-component{
+    margin: 5% 0;
+}
+#CaseHeader-component>div>span:first-child{
+    font-size: 0.9em;
+    color: #464646;
+}
+#CaseHeader-component h4{
+    font-size: 4em;
+    margin: 1% 0;
+}
+#CaseHeader-component p{
+    font-size: 1.25em;
+}
+#CaseHeader-component .tags-cont{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 3%;
+    /* width: 40%; */
+}
+#CaseHeader-component .tag{
+    font-size: 0.9em;
+    color: white;
+    background-color: #8a8a8a;
+    border-radius: 2px;
+    padding: 5px 8px 3px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}

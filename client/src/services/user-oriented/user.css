@@ -1,0 +1,285 @@
+#franja-info-taggie{
+    display: flex;
+    margin: 15% 0;
+}
+#franja-info-taggie>div{
+    width: 40%;
+}
+#franja-info-taggie>div h3{
+    font-size: 2.5em;
+}
+#info-description{
+    width: 60%!important;
+}
+#info-description>div{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10%;
+}
+#info-description>div h6{
+    width: 25%;
+    text-align: right;
+    font-weight: 400;
+    color: #a5a5a5;
+    font-size: 0.8em;
+}
+#info-description>div p{
+    width: 70%;
+    font-size: 0.9em;
+}
+#linea-approach{
+    position: relative;
+    padding: 7.5% 0 5%;
+}
+div#secciones-aero {
+    padding-top: 15%;
+}
+#linea-approach::after{
+    width: 150%;
+    height: 50%;
+    content: '';
+    position: absolute;
+    z-index: -2;
+    top: 60%;
+    background-image: radial-gradient( var(--taggie) 15% , rgba(255, 255, 255, 0) 60%);
+    left: 40%;
+    transform: translate(-50%, -50%) rotate(25deg);
+    border-radius: 300px;
+
+}
+#linea-approach::before{
+    width: 133%;
+    height: 110%;
+    content: '';
+    position: absolute;
+    z-index: -1;
+    top: 50%;
+    background: rgb(242 242 242 / 57%);
+    backdrop-filter: blur(71px);
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 30px;
+    border: 1px solid #ddd;
+
+}
+#linea-approach>div>h3{
+    font-size: 2em;
+    text-align: center;
+    width: 50%;
+    margin: auto;
+}
+#linea-approach>div>div{
+    display: flex;
+    justify-content: space-between;
+    padding: 10vh 0;
+
+}
+.approach-step{
+    width: 20%;
+    text-align: center;
+}
+.approach-step h6{
+    font-size: 1.5em;
+    margin: 5% 0;
+}
+#step1, #step2, #step3, #step4{
+    width: 40px;
+    height: 40px;
+    background-color: var(--taggie);
+    margin: auto;
+    border-radius: 100px;
+    position: relative;
+    margin-bottom: 25%;
+}
+/* .approach-step::before{
+    content: '';
+    position: absolute;
+    top: 115%;
+    left: 0%;
+    border-top: 1px dotted var(--taggie);
+    width: 20vw;
+    height: 5px;
+} */
+#step1::after, #step2::after, #step3::after, #step4::after{
+    background-color: var(--taggie);
+    content: '';
+    position: absolute;
+    top: 120%;
+    left: 50%;
+    transform: translateX(-50%);
+    border-radius: 20px;
+    width: 12px;
+    height: 12px;
+}
+#step1 p, #step2 p, #step3 p , #step4 p{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 1.2em;
+    color: white;
+    font-weight: 800;
+}
+.approach-step p{
+    font-size: 1em;
+    color: #535353;
+}
+
+
+#secciones-aero>div{
+    padding: 15vh 0;
+}
+#secciones-aero>div>div>h3{
+    text-align: center;
+    font-size: 2em;
+    font-weight: 400;
+
+}
+#secciones-aero>div>div>p{
+    text-align: center;
+    width: 45%;
+    font-weight: 200;
+    margin: 4% auto 8%;
+}
+#secciones-aero>div>div>img{
+    width: 100%;
+}
+#paper-first img, #less-more img{
+    width: 101vw!important;
+    margin-left: -30%;    
+}
+
+#less-more img{
+    margin-top: -5%;
+    margin-bottom: -5%;
+}
+.flexi-beet{
+    display: flex;
+    justify-content: space-between;
+}
+.flexi-column{
+    flex-direction: column;
+}
+.treinta{
+    width: 30%;
+}
+.cuarentiocho{
+    width: 48%;
+}
+.margBotSiete{
+    margin-top: 7%;
+}
+#components-img img{
+    border-radius: 10px;
+    box-shadow: 0 3px 18px -6px #dadada;
+}
+#visuals{
+    position:relative
+}
+#visuals:before {
+    content: '';
+    position: absolute;
+    width: 100vw;
+    background-color: var(--taggie);
+    z-index: -1;
+    left: -29%;
+    top: 60%;
+    height: 40%;
+}
+#icons{
+    position: relative
+}
+#icons:before{
+    content: '';
+    position: absolute;
+    width: 105%;
+    background-color: var(--taggie);
+    z-index: -1;
+    left: -29%;
+    top: 0%;
+    height: 100%;
+}
+/* :root {
+    --taggie: #9300ff;
+} */
+#icons-cont{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    width: 100%;
+    /* background-color: rgb(109, 109, 109); */
+    margin-top: 5%;
+}
+#icons-cont img{
+    width: 11%;
+    width: 31px;
+    margin: 8% 4%;
+    margin: 23px 11px;
+}
+#icons-cont>div{
+    /* width: 290px; */
+    max-width: 50%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding: 5%;
+}
+#icons-cont>div:first-child{
+    filter: invert(1);
+}
+#icons-cont>div:last-child{
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 3px 18px -6px #dadada;
+
+}
+
+#video-cont>div{
+    overflow: hidden;
+    border-radius: 15px;
+    box-shadow: 0px 0px 10px 5px #f0f0f0;
+}
+#video-cont img{
+    transform: scale(1.01);
+}
+@media (max-width: 800px) {
+    #franja-info-taggie{
+        flex-direction: column;
+    }
+    #franja-info-taggie>div{
+        margin-top: 5%;
+        width: 100%!important;
+    }
+    #linea-approach::before {
+        width: 113%;
+        height: 100%;
+    }
+    #linea-approach::after {
+        width: 120%;
+        height: 90%;
+    }
+    #linea-approach>div>h3{
+        width: 100%;
+    }
+    #linea-approach>div>div{
+        flex-wrap: wrap;
+        padding: 3vh 0;
+    }
+    .approach-step{
+        width: 45%;
+        margin: 5% 0;
+    }
+    #secciones-aero>div{
+        padding: 7vh 0;
+    }
+    #secciones-aero>div>div>p{
+        width: 100%;
+    }
+    #paper-first img, #less-more img{
+        margin-left: -14%;
+    }
+    #visuals:before {
+        left: -13%;
+
+    }
+}

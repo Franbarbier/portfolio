@@ -1,0 +1,103 @@
+
+
+#cards-cont{
+    padding: 10% 0;
+}
+#cards-cont>div{
+    display: flex;
+    justify-content: space-between;
+}
+#cards-cont>div>div{
+    border-radius: 20px;
+    padding: 8% 7%;
+    margin-bottom: 3%;
+    box-shadow: 4px 12px 40px 6px rgb(0 0 0 / 9%);
+    background-color: white;
+}
+.width100{
+    width: 100%;
+}
+.width50{
+    width: 48.5%;
+}
+
+#crypto-steps, #crypto-coin, #plannet-card{
+    background: #151515!important;
+    color: white;
+}
+#crypto-steps img, #lengas-reloj img, #crypto-coin img, #lengas-bille img{
+    width: 100%;
+}
+
+#crypto-steps h3{
+    font-size: 3em;
+  background: -webkit-linear-gradient(#ffae3d, #da8105);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+#big-center-txt {
+    margin-top: 13%;
+}
+#big-center-txt h3{
+    font-size: 4em;
+    text-align: center;
+    margin-bottom: 3%;
+}
+#big-center-txt p{
+    text-align: center;
+    font-size: 1.2em;
+}
+
+@media (max-width: 800px) {
+    #cards-cont>div>div{
+        margin-bottom: 8%;
+    }
+    #crypto-steps h3 {
+        font-size: 1.5em;
+    }
+    #crypto-coin{
+        font-size: 0.5em
+    }
+    .step-img-cont>img {
+        right: 16%;
+        top: -3%;
+        width: 34px!important;
+    }
+    #paso2 .step-img-cont>img {
+        left: -4%;
+    }
+    .chains-cont {
+        width: 9px;
+        top: 55%
+    }
+    .step-num-cont>div{
+        width: 15px;
+        height: 15px;
+    }
+    .linea-negra {
+        height: 5vh;
+    }
+    #celu-cont{
+        min-height: 10vh;
+    }
+    #ensamble-fotos {
+        min-height: 20vh;
+    }
+    .plannet-cont{
+        height: 12vh;
+        width: 40%;
+    }
+    #features{
+        flex-direction: column;
+    }
+    #features>div{
+        width: 100%;
+    }
+    .plannet-cont>img {
+        left: -41%;
+        bottom: -50%;
+    }
+    #nauta{
+        display: none
+    }
+}

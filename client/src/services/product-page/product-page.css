@@ -1,0 +1,137 @@
+.pp-container{
+    padding: 10% 0;
+}
+#historia{
+    text-align: center;
+
+}
+#historia h3{
+    font-size: 4em;
+    margin-top: 3%;
+}
+#historia p{
+    font-size: 1.5em;
+    margin-top: 3%;
+}
+#img-story img{
+    width: 100vw;
+    transform: translateX(-18vw);
+}
+#wire-reforma{
+    display: flex;
+}
+#wire-reforma{
+    padding: 3% 0 10%;
+}
+#wire{
+    box-shadow: 0px 0px 30px 0px #ededed;
+    border-radius: 10px;
+    width: 70%;
+    position: relative;
+    overflow: hidden;
+}
+#foto-home-reforma{
+    position: absolute;
+    width: 100%;
+    top: 0%;
+    left: 0;
+    opacity: 0;
+    transition: .25s;
+}
+#wire:hover #foto-home-reforma{
+    opacity: 1;
+}
+
+#aclaraciones{
+    width: 24.7%;
+    margin-left: 5%;
+}
+#aclaraciones img{
+    width: 100%;
+}
+#wire-text{
+    margin: 10% 0 5%;
+    width: 50%;
+}
+.titulo-pp{
+    font-size: 2em;
+    margin-bottom: 3%;
+}
+#wire-text p{
+}
+#atom-landing-cont{
+    display: flex;
+    justify-content: space-between;
+}
+#atom-landings{
+    position: relative;
+    width: 55%;
+    margin: 16% 0 31%;
+
+}
+#atom-landings .desk{
+    width: 100%;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0px 0px 30px 0px #ededed;
+    /* border: 1px solid #ddd; */
+}
+#atom-landings .mob{
+    border-radius: 10px;
+    overflow: hidden;
+    position: absolute;
+    left: -15%;
+    width: 28%;
+    top: -10%;
+    box-shadow: 0px 0px 30px 0px #c2c2c2;
+}
+
+#atom-texts{
+    width: 40%;
+    position: sticky;
+    top: 5%;
+    height: fit-content;
+}
+#lengas-landings{
+    display: flex;
+    justify-content: space-between;
+}
+#lengas-landings>div{
+    width: 47%;
+}
+#lengas-landings>div #landing1{
+    border-radius: 10px;
+    width: 100%;
+    margin-bottom: 15%;
+
+}
+#landing2{
+    width: 125%;
+    box-shadow: 0px 0px 30px 0px #ededed;
+    border-radius: 10px;
+    position: relative;
+    z-index: 5;
+    margin-top: 15%;
+}
+#lengas-landings>div:last-child>h4,
+#lengas-landings>div:last-child>p,
+#lengas-landings>div:last-child>ul{
+    padding-left: 25%;
+}
+
+
+@media (max-width: 800px) {
+    #img-story img{ transform: translateX(-10vw); }
+    #wire-text{
+        width: 100%;
+    }
+    #atom-landing-cont{
+        padding-top: 20%;
+    }
+    #atom-texts{
+        top:12%
+    }
+    .titulo-pp{
+        font-size: 1.5em;
+    }
+}

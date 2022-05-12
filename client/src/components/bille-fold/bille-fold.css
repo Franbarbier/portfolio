@@ -1,0 +1,50 @@
+#usabilidad{
+    background-color: #fafafa;
+    padding-top: 10%;
+    height: 90vh;
+    overflow: hidden;
+}
+
+#usabilidad-img {
+    padding-top: 15%;
+    position: relative;
+    margin: auto;
+    width: 86%;
+    margin-left: 2%;
+    
+}
+
+#usabilidad-img img{
+    width: 40%;
+    left: 50%;
+    height: auto;
+    position: absolute;
+}
+#persp-movi{
+    perspective: 1000px;
+    position: relative;
+    width: 75%;
+    margin: auto;
+    transform: translateX(-8%);
+}
+#billete{
+    transform: translateX(15%);
+}
+#persp-movi>div{
+    transform-style: preserve-3d;
+    transform-origin: 65% 50%;
+    transform: rotateY(180deg);
+    transition: 1.5s cubic-bezier(0.13, 0.77, 0.33, 1);
+}
+#frente{
+    transform: rotateY(-180deg) translateX(83.5%)!important;
+    transform-style: inherit;
+    backface-visibility: hidden;
+}
+#tarjeta{
+    transform: translateX(-84%)!important;
+    transform-origin: 50% 50%;
+    transform-style: preserve-3d;
+    backface-visibility: hidden;
+    z-index: -1;
+}

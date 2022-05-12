@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1132 547" style="enable-background:new 0 0 1132 547;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st2{fill:url(#SVGID_1_);stroke:#000000;stroke-miterlimit:10;}
+	.st3{fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-miterlimit:10;}
+	.st4{fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-miterlimit:10;}
+	.st5{fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-miterlimit:10;}
+	.st6{fill:none;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;}
+	.st7{fill:none;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;stroke-dasharray:2,2;}
+	.st8{clip-path:url(#XMLID_2_);fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.st9{clip-path:url(#XMLID_2_);}
+	.st10{clip-path:url(#XMLID_3_);fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.st11{fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
+	.st12{clip-path:url(#XMLID_4_);fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.st13{clip-path:url(#XMLID_4_);}
+	.st14{clip-path:url(#XMLID_5_);fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.st15{clip-path:url(#XMLID_6_);fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.st16{clip-path:url(#XMLID_6_);}
+	.st17{clip-path:url(#XMLID_7_);fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.st18{clip-path:url(#XMLID_8_);fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.st19{clip-path:url(#XMLID_8_);}
+	.st20{clip-path:url(#XMLID_9_);fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	svg{transition:.3s;}
+</style>
+
+<g id="Layer_7">
+	<rect id="rect1" y="-1" className="st0" width="51" height="565"/>
+	<line id="linea1Top" className="st0" x1="1" y1="22" x2="1130" y2="22"/>
+	<circle id="circuloMasNav" className="st1" cx="25.5" cy="10.5" r="7.5"/>
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="14.9984" y1="72.9572" x2="34.0016" y2="40.0428">
+		<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0"/>
+		<stop  offset="6.803022e-04" style="stop-color:#F6F6F6;stop-opacity:7.380247e-03"/>
+		<stop  offset="4.394740e-03" style="stop-color:#C8C8C8;stop-opacity:0.0477"/>
+		<stop  offset="8.580905e-03" style="stop-color:#9D9D9D;stop-opacity:0.0931"/>
+		<stop  offset="0.0131" style="stop-color:#777777;stop-opacity:0.1419"/>
+		<stop  offset="0.018" style="stop-color:#575757;stop-opacity:0.195"/>
+		<stop  offset="0.0234" style="stop-color:#3B3B3B;stop-opacity:0.2537"/>
+		<stop  offset="0.0295" style="stop-color:#252525;stop-opacity:0.32"/>
+		<stop  offset="0.0366" style="stop-color:#141414;stop-opacity:0.3974"/>
+		<stop  offset="0.0455" style="stop-color:#090909;stop-opacity:0.4931"/>
+		<stop  offset="0.0578" style="stop-color:#020202;stop-opacity:0.6274"/>
+		<stop  offset="0.0922" style="stop-color:#000000"/>
+		<stop  offset="0.0928" style="stop-color:#090909;stop-opacity:0.9926"/>
+		<stop  offset="0.0962" style="stop-color:#373737;stop-opacity:0.9523"/>
+		<stop  offset="0.1" style="stop-color:#626262;stop-opacity:0.9069"/>
+		<stop  offset="0.1041" style="stop-color:#888888;stop-opacity:0.8581"/>
+		<stop  offset="0.1085" style="stop-color:#A8A8A8;stop-opacity:0.805"/>
+		<stop  offset="0.1134" style="stop-color:#C4C4C4;stop-opacity:0.7463"/>
+		<stop  offset="0.119" style="stop-color:#DADADA;stop-opacity:0.68"/>
+		<stop  offset="0.1255" style="stop-color:#EBEBEB;stop-opacity:0.6026"/>
+		<stop  offset="0.1335" style="stop-color:#F6F6F6;stop-opacity:0.5069"/>
+		<stop  offset="0.1448" style="stop-color:#FDFDFD;stop-opacity:0.3726"/>
+		<stop  offset="0.176" style="stop-color:#FFFFFF;stop-opacity:0"/>
+		<stop  offset="0.1764" style="stop-color:#F6F6F6;stop-opacity:7.380247e-03"/>
+		<stop  offset="0.1789" style="stop-color:#C8C8C8;stop-opacity:0.0477"/>
+		<stop  offset="0.1817" style="stop-color:#9D9D9D;stop-opacity:0.0931"/>
+		<stop  offset="0.1847" style="stop-color:#777777;stop-opacity:0.1419"/>
+		<stop  offset="0.188" style="stop-color:#575757;stop-opacity:0.195"/>
+		<stop  offset="0.1916" style="stop-color:#3B3B3B;stop-opacity:0.2537"/>
+		<stop  offset="0.1956" style="stop-color:#252525;stop-opacity:0.32"/>
+		<stop  offset="0.2004" style="stop-color:#141414;stop-opacity:0.3974"/>
+		<stop  offset="0.2063" style="stop-color:#090909;stop-opacity:0.4931"/>
+		<stop  offset="0.2145" style="stop-color:#020202;stop-opacity:0.6274"/>
+		<stop  offset="0.2374" style="stop-color:#000000"/>
+		<stop  offset="0.2379" style="stop-color:#090909;stop-opacity:0.9926"/>
+		<stop  offset="0.2406" style="stop-color:#373737;stop-opacity:0.9523"/>
+		<stop  offset="0.2437" style="stop-color:#626262;stop-opacity:0.9069"/>
+		<stop  offset="0.2469" style="stop-color:#888888;stop-opacity:0.8581"/>
+		<stop  offset="0.2505" style="stop-color:#A8A8A8;stop-opacity:0.805"/>
+		<stop  offset="0.2544" style="stop-color:#C4C4C4;stop-opacity:0.7463"/>
+		<stop  offset="0.2589" style="stop-color:#DADADA;stop-opacity:0.68"/>
+		<stop  offset="0.2641" style="stop-color:#EBEBEB;stop-opacity:0.6026"/>
+		<stop  offset="0.2705" style="stop-color:#F6F6F6;stop-opacity:0.5069"/>
+		<stop  offset="0.2795" style="stop-color:#FDFDFD;stop-opacity:0.3726"/>
+		<stop  offset="0.3045" style="stop-color:#FFFFFF;stop-opacity:0"/>
+		<stop  offset="0.305" style="stop-color:#F6F6F6;stop-opacity:7.380247e-03"/>
+		<stop  offset="0.3082" style="stop-color:#C8C8C8;stop-opacity:0.0477"/>
+		<stop  offset="0.3118" style="stop-color:#9D9D9D;stop-opacity:0.0931"/>
+		<stop  offset="0.3156" style="stop-color:#777777;stop-opacity:0.1419"/>
+		<stop  offset="0.3197" style="stop-color:#575757;stop-opacity:0.195"/>
+		<stop  offset="0.3243" style="stop-color:#3B3B3B;stop-opacity:0.2537"/>
+		<stop  offset="0.3295" style="stop-color:#252525;stop-opacity:0.32"/>
+		<stop  offset="0.3356" style="stop-color:#141414;stop-opacity:0.3974"/>
+		<stop  offset="0.343" style="stop-color:#090909;stop-opacity:0.4931"/>
+		<stop  offset="0.3535" style="stop-color:#020202;stop-opacity:0.6274"/>
+		<stop  offset="0.3827" style="stop-color:#000000"/>
+		<stop  offset="0.3832" style="stop-color:#090909;stop-opacity:0.9926"/>
+		<stop  offset="0.3861" style="stop-color:#373737;stop-opacity:0.9523"/>
+		<stop  offset="0.3894" style="stop-color:#626262;stop-opacity:0.9069"/>
+		<stop  offset="0.393" style="stop-color:#888888;stop-opacity:0.8581"/>
+		<stop  offset="0.3968" style="stop-color:#A8A8A8;stop-opacity:0.805"/>
+		<stop  offset="0.4011" style="stop-color:#C4C4C4;stop-opacity:0.7463"/>
+		<stop  offset="0.4059" style="stop-color:#DADADA;stop-opacity:0.68"/>
+		<stop  offset="0.4115" style="stop-color:#EBEBEB;stop-opacity:0.6026"/>
+		<stop  offset="0.4185" style="stop-color:#F6F6F6;stop-opacity:0.5069"/>
+		<stop  offset="0.4282" style="stop-color:#FDFDFD;stop-opacity:0.3726"/>
+		<stop  offset="0.4553" style="stop-color:#FFFFFF;stop-opacity:0"/>
+		<stop  offset="0.4559" style="stop-color:#F6F6F6;stop-opacity:7.380247e-03"/>
+		<stop  offset="0.4593" style="stop-color:#C8C8C8;stop-opacity:0.0477"/>
+		<stop  offset="0.4631" style="stop-color:#9D9D9D;stop-opacity:0.0931"/>
+		<stop  offset="0.4672" style="stop-color:#777777;stop-opacity:0.1419"/>
+		<stop  offset="0.4717" style="stop-color:#575757;stop-opacity:0.195"/>
+		<stop  offset="0.4766" style="stop-color:#3B3B3B;stop-opacity:0.2537"/>
+		<stop  offset="0.4821" style="stop-color:#252525;stop-opacity:0.32"/>
+		<stop  offset="0.4886" style="stop-color:#141414;stop-opacity:0.3974"/>
+		<stop  offset="0.4966" style="stop-color:#090909;stop-opacity:0.4931"/>
+		<stop  offset="0.5079" style="stop-color:#020202;stop-opacity:0.6274"/>
+		<stop  offset="0.5391" style="stop-color:#000000"/>
+		<stop  offset="0.5395" style="stop-color:#090909;stop-opacity:0.9926"/>
+		<stop  offset="0.5418" style="stop-color:#373737;stop-opacity:0.9523"/>
+		<stop  offset="0.5443" style="stop-color:#626262;stop-opacity:0.9069"/>
+		<stop  offset="0.547" style="stop-color:#888888;stop-opacity:0.8581"/>
+		<stop  offset="0.55" style="stop-color:#A8A8A8;stop-opacity:0.805"/>
+		<stop  offset="0.5533" style="stop-color:#C4C4C4;stop-opacity:0.7463"/>
+		<stop  offset="0.557" style="stop-color:#DADADA;stop-opacity:0.68"/>
+		<stop  offset="0.5613" style="stop-color:#EBEBEB;stop-opacity:0.6026"/>
+		<stop  offset="0.5667" style="stop-color:#F6F6F6;stop-opacity:0.5069"/>
+		<stop  offset="0.5742" style="stop-color:#FDFDFD;stop-opacity:0.3726"/>
+		<stop  offset="0.595" style="stop-color:#FFFFFF;stop-opacity:0"/>
+		<stop  offset="0.5965" style="stop-color:#E2E2E2;stop-opacity:0.035"/>
+		<stop  offset="0.5994" style="stop-color:#B3B3B3;stop-opacity:0.0984"/>
+		<stop  offset="0.6025" style="stop-color:#888888;stop-opacity:0.1676"/>
+		<stop  offset="0.6057" style="stop-color:#636363;stop-opacity:0.2408"/>
+		<stop  offset="0.6092" style="stop-color:#444444;stop-opacity:0.3192"/>
+		<stop  offset="0.613" style="stop-color:#2B2B2B;stop-opacity:0.4045"/>
+		<stop  offset="0.6173" style="stop-color:#181818;stop-opacity:0.4992"/>
+		<stop  offset="0.6222" style="stop-color:#0A0A0A;stop-opacity:0.6086"/>
+		<stop  offset="0.6283" style="stop-color:#020202;stop-opacity:0.7459"/>
+		<stop  offset="0.6397" style="stop-color:#000000"/>
+		<stop  offset="0.64" style="stop-color:#090909;stop-opacity:0.9926"/>
+		<stop  offset="0.6421" style="stop-color:#373737;stop-opacity:0.9523"/>
+		<stop  offset="0.6443" style="stop-color:#626262;stop-opacity:0.9069"/>
+		<stop  offset="0.6468" style="stop-color:#888888;stop-opacity:0.8581"/>
+		<stop  offset="0.6495" style="stop-color:#A8A8A8;stop-opacity:0.805"/>
+		<stop  offset="0.6524" style="stop-color:#C4C4C4;stop-opacity:0.7463"/>
+		<stop  offset="0.6558" style="stop-color:#DADADA;stop-opacity:0.68"/>
+		<stop  offset="0.6596" style="stop-color:#EBEBEB;stop-opacity:0.6026"/>
+		<stop  offset="0.6645" style="stop-color:#F6F6F6;stop-opacity:0.5069"/>
+		<stop  offset="0.6712" style="stop-color:#FDFDFD;stop-opacity:0.3726"/>
+		<stop  offset="0.6899" style="stop-color:#FFFFFF;stop-opacity:0"/>
+		<stop  offset="0.6905" style="stop-color:#F6F6F6;stop-opacity:7.380247e-03"/>
+		<stop  offset="0.6937" style="stop-color:#C8C8C8;stop-opacity:0.0477"/>
+		<stop  offset="0.6972" style="stop-color:#9D9D9D;stop-opacity:0.0931"/>
+		<stop  offset="0.701" style="stop-color:#777777;stop-opacity:0.1419"/>
+		<stop  offset="0.7052" style="stop-color:#575757;stop-opacity:0.195"/>
+		<stop  offset="0.7098" style="stop-color:#3B3B3B;stop-opacity:0.2537"/>
+		<stop  offset="0.715" style="stop-color:#252525;stop-opacity:0.32"/>
+		<stop  offset="0.721" style="stop-color:#141414;stop-opacity:0.3974"/>
+		<stop  offset="0.7285" style="stop-color:#090909;stop-opacity:0.4931"/>
+		<stop  offset="0.739" style="stop-color:#020202;stop-opacity:0.6274"/>
+		<stop  offset="0.7682" style="stop-color:#000000"/>
+		<stop  offset="0.7687" style="stop-color:#090909;stop-opacity:0.9926"/>
+		<stop  offset="0.7714" style="stop-color:#373737;stop-opacity:0.9523"/>
+		<stop  offset="0.7744" style="stop-color:#626262;stop-opacity:0.9069"/>
+		<stop  offset="0.7777" style="stop-color:#888888;stop-opacity:0.8581"/>
+		<stop  offset="0.7812" style="stop-color:#A8A8A8;stop-opacity:0.805"/>
+		<stop  offset="0.7852" style="stop-color:#C4C4C4;stop-opacity:0.7463"/>
+		<stop  offset="0.7896" style="stop-color:#DADADA;stop-opacity:0.68"/>
+		<stop  offset="0.7948" style="stop-color:#EBEBEB;stop-opacity:0.6026"/>
+		<stop  offset="0.8012" style="stop-color:#F6F6F6;stop-opacity:0.5069"/>
+		<stop  offset="0.8102" style="stop-color:#FDFDFD;stop-opacity:0.3726"/>
+		<stop  offset="0.8352" style="stop-color:#FFFFFF;stop-opacity:0"/>
+		<stop  offset="0.8356" style="stop-color:#F6F6F6;stop-opacity:7.380247e-03"/>
+		<stop  offset="0.8379" style="stop-color:#C8C8C8;stop-opacity:0.0477"/>
+		<stop  offset="0.8404" style="stop-color:#9D9D9D;stop-opacity:0.0931"/>
+		<stop  offset="0.8431" style="stop-color:#777777;stop-opacity:0.1419"/>
+		<stop  offset="0.8461" style="stop-color:#575757;stop-opacity:0.195"/>
+		<stop  offset="0.8494" style="stop-color:#3B3B3B;stop-opacity:0.2537"/>
+		<stop  offset="0.8531" style="stop-color:#252525;stop-opacity:0.32"/>
+		<stop  offset="0.8574" style="stop-color:#141414;stop-opacity:0.3974"/>
+		<stop  offset="0.8627" style="stop-color:#090909;stop-opacity:0.4931"/>
+		<stop  offset="0.8702" style="stop-color:#020202;stop-opacity:0.6274"/>
+		<stop  offset="0.8911" style="stop-color:#000000"/>
+		<stop  offset="0.8914" style="stop-color:#090909;stop-opacity:0.9926"/>
+		<stop  offset="0.8929" style="stop-color:#373737;stop-opacity:0.9523"/>
+		<stop  offset="0.8947" style="stop-color:#626262;stop-opacity:0.9069"/>
+		<stop  offset="0.8966" style="stop-color:#888888;stop-opacity:0.8581"/>
+		<stop  offset="0.8987" style="stop-color:#A8A8A8;stop-opacity:0.805"/>
+		<stop  offset="0.901" style="stop-color:#C4C4C4;stop-opacity:0.7463"/>
+		<stop  offset="0.9036" style="stop-color:#DADADA;stop-opacity:0.68"/>
+		<stop  offset="0.9066" style="stop-color:#EBEBEB;stop-opacity:0.6026"/>
+		<stop  offset="0.9103" style="stop-color:#F6F6F6;stop-opacity:0.5069"/>
+		<stop  offset="0.9156" style="stop-color:#FDFDFD;stop-opacity:0.3726"/>
+		<stop  offset="0.9302" style="stop-color:#FFFFFF;stop-opacity:0"/>
+		<stop  offset="0.9307" style="stop-color:#F6F6F6;stop-opacity:7.380247e-03"/>
+		<stop  offset="0.9335" style="stop-color:#C8C8C8;stop-opacity:0.0477"/>
+		<stop  offset="0.9367" style="stop-color:#9D9D9D;stop-opacity:0.0931"/>
+		<stop  offset="0.9401" style="stop-color:#777777;stop-opacity:0.1419"/>
+		<stop  offset="0.9438" style="stop-color:#575757;stop-opacity:0.195"/>
+		<stop  offset="0.9479" style="stop-color:#3B3B3B;stop-opacity:0.2537"/>
+		<stop  offset="0.9525" style="stop-color:#252525;stop-opacity:0.32"/>
+		<stop  offset="0.9579" style="stop-color:#141414;stop-opacity:0.3974"/>
+		<stop  offset="0.9646" style="stop-color:#090909;stop-opacity:0.4931"/>
+		<stop  offset="0.974" style="stop-color:#020202;stop-opacity:0.6274"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<circle id="circuloUser" className="st2" cx="24.5" cy="56.5" r="19"/>
+	<circle id="circuloNav1" className="st1" cx="25.5" cy="135.5" r="12"/>
+	<circle id="circuloNav2" className="st1" cx="24.5" cy="176.5" r="12"/>
+	<circle id="circuloNav3" className="st1" cx="25.5" cy="214.5" r="12"/>
+	<circle id="circuloNav4" className="st1" cx="26" cy="268" r="12"/>
+	<line id="flechita1" className="st1" x1="13.5" y1="537.5" x2="33.5" y2="517.5"/>
+	<line id="flechita2" className="st1" x1="19.5" y1="538.5" x2="39.5" y2="518.5"/>
+	<line id="breadCrumb" className="st3" x1="66.5" y1="10.5" x2="105.5" y2="10.5"/>
+	<rect id="box1" x="90.5" y="34.5" className="st4 boxes" width="200" height="64"/>
+	<rect id="box2" x="373" y="35" className="st4 boxes" width="200" height="64"/>
+	<rect id="box3" x="657" y="35" className="st4 boxes" width="200" height="64"/>
+	<line id="textBox1" className="st4 textBoxes" x1="124" y1="44" x2="178" y2="44"/>
+	<line id="textBox2" className="st4 textBoxes" x1="124" y1="87" x2="236" y2="87"/>
+	<line id="textBox3" className="st4 textBoxes" x1="409" y1="45" x2="491" y2="45"/>
+	<line id="textBox4" className="st4 textBoxes" x1="409" y1="87" x2="530" y2="87"/>
+	<line id="textBox5" className="st4 textBoxes" x1="692" y1="87" x2="809" y2="87"/>
+	<line id="textBox6" className="st4 textBoxes" x1="693" y1="44" x2="781" y2="44"/>
+	<path className="st4 numBoxes" d="M162,77h-28c-5.52,0-10-4.48-10-10v0c0-5.52,4.48-10,10-10h28c5.52,0,10,4.48,10,10v0
+		C172,72.52,167.52,77,162,77z"/>
+	<path className="st4 numBoxes" d="M470,77h-53c-5.52,0-10-4.48-10-10v0c0-5.52,4.48-10,10-10h53c5.52,0,10,4.48,10,10v0
+		C480,72.52,475.52,77,470,77z"/>
+	<path className="st4 numBoxes" d="M729,75h-28c-5.52,0-10-4.48-10-10v0c0-5.52,4.48-10,10-10h28c5.52,0,10,4.48,10,10v0
+		C739,70.52,734.52,75,729,75z"/>
+	<line id="tituloLeads" className="st5" x1="97" y1="143" x2="498" y2="143"/>
+	<circle className="st6 circuloLeads" cx="548" cy="142" r="7"/>
+	<circle className="st6 circuloLeads" cx="595" cy="143" r="7"/>
+	<line className="st4 tituloTable" x1="101.5" y1="184.5" x2="124.5" y2="184.5"/>
+	<line className="st4 tituloTable" x1="143" y1="185" x2="195" y2="185"/>
+	<line className="st4 tituloTable" x1="308" y1="184" x2="402" y2="184"/>
+	<line className="st4 tituloTable" x1="433" y1="184" x2="491" y2="184"/>
+	<line className="st4 tituloTable" x1="510" y1="185" x2="548" y2="185"/>
+	<line className="st6 primeraFila" x1="143" y1="218.42" x2="229" y2="218.42"/>
+	<line className="st6 primeraFila" x1="310.5" y1="218.42" x2="356.5" y2="218.42"/>
+	<line className="st6 primeraFila" x1="434.5" y1="218.42" x2="481.5" y2="218.42"/>
+	<line className="st6 primeraFila" x1="511.5" y1="218.42" x2="554.5" y2="218.42"/>
+	<circle className="st6 primeraFila" cx="112.5" cy="218.42" r="5.5"/>
+	<circle className="st6 primeraFila" cx="583.5" cy="218.42" r="6.5"/>
+	<line className="st6 segundaFila" x1="143" y1="252.42" x2="229" y2="252.42"/>
+	<line className="st6 segundaFila" x1="310.5" y1="252.42" x2="356.5" y2="252.42"/>
+	<line className="st6 segundaFila" x1="434.5" y1="252.42" x2="481.5" y2="252.42"/>
+	<line className="st6 segundaFila" x1="511.5" y1="252.42" x2="554.5" y2="252.42"/>
+	<circle className="st6 segundaFila" cx="112.5" cy="252.42" r="5.5"/>
+	<circle className="st6 segundaFila" cx="583.5" cy="252.42" r="6.5"/>
+	<line className="st6 terceraFila" x1="142" y1="287.42" x2="228" y2="287.42"/>
+	<line className="st6 terceraFila" x1="309.5" y1="287.42" x2="355.5" y2="287.42"/>
+	<line className="st6 terceraFila" x1="433.5" y1="287.42" x2="480.5" y2="287.42"/>
+	<line className="st6 terceraFila" x1="510.5" y1="287.42" x2="553.5" y2="287.42"/>
+	<circle className="st6 terceraFila" cx="111.5" cy="287.42" r="5.5"/>
+	<circle className="st6 terceraFila" cx="582.5" cy="287.42" r="6.5"/>
+	<line className="st6 cuartaFila" x1="142" y1="321.42" x2="228" y2="321.42"/>
+	<line className="st6 cuartaFila" x1="309.5" y1="321.42" x2="355.5" y2="321.42"/>
+	<line className="st6 cuartaFila" x1="433.5" y1="321.42" x2="480.5" y2="321.42"/>
+	<line className="st6 cuartaFila" x1="510.5" y1="321.42" x2="553.5" y2="321.42"/>
+	<circle className="st6 cuartaFila" cx="111.5" cy="321.42" r="5.5"/>
+	<circle className="st6 cuartaFila" cx="582.5" cy="321.42" r="6.5"/>
+	<line className="st6 quintaFila" x1="142" y1="355.42" x2="228" y2="355.42"/>
+	<line className="st6 quintaFila" x1="309.5" y1="355.42" x2="355.5" y2="355.42"/>
+	<line className="st6 quintaFila" x1="433.5" y1="355.42" x2="480.5" y2="355.42"/>
+	<line className="st6 quintaFila" x1="510.5" y1="355.42" x2="553.5" y2="355.42"/>
+	<circle className="st6 quintaFila" cx="111.5" cy="355.42" r="5.5"/>
+	<circle className="st6 quintaFila" cx="582.5" cy="355.42" r="6.5"/>
+	<g className="quintaFila">
+		<g>
+			<line className="st6" x1="90.5" y1="339.5" x2="91.5" y2="339.5"/>
+			<line className="st7" x1="93.5" y1="339.5" x2="604.5" y2="339.5"/>
+			<line className="st6" x1="605.5" y1="339.5" x2="606.5" y2="339.5"/>
+		</g>
+	</g>
+	<g className="cuartaFila">
+		<g>
+			<line className="st6" x1="88.5" y1="306.5" x2="89.5" y2="306.5"/>
+			<line className="st7" x1="91.5" y1="306.5" x2="602.5" y2="306.5"/>
+			<line className="st6" x1="603.5" y1="306.5" x2="604.5" y2="306.5"/>
+		</g>
+	</g>
+	<g className="terceraFila">
+		<g>
+			<line className="st6" x1="89.5" y1="271.5" x2="90.5" y2="271.5"/>
+			<line className="st7" x1="92.5" y1="271.5" x2="603.5" y2="271.5"/>
+			<line className="st6" x1="604.5" y1="271.5" x2="605.5" y2="271.5"/>
+		</g>
+	</g>
+	<g className="segundaFila">
+		<g>
+			<line className="st6" x1="90.5" y1="237.5" x2="91.5" y2="237.5"/>
+			<line className="st7" x1="93.5" y1="237.5" x2="604.5" y2="237.5"/>
+			<line className="st6" x1="605.5" y1="237.5" x2="606.5" y2="237.5"/>
+		</g>
+	</g>
+	<g className="primeraFila">
+		<g>
+			<line className="st6" x1="90.5" y1="204.5" x2="91.5" y2="204.5"/>
+			<line className="st7" x1="93.5" y1="204.5" x2="604.5" y2="204.5"/>
+			<line className="st6" x1="605.5" y1="204.5" x2="606.5" y2="204.5"/>
+		</g>
+	</g>
+	<line id="tituloFunnel" className="st5" x1="662" y1="143" x2="756" y2="143"/>
+	<g>
+		<defs id="barrita1" className="barritas">
+			<path id="XMLID_17_" d="M891.25,328h-224c-0.55,0-1-0.45-1-1v-24c0-0.55,0.45-1,1-1h224c0.55,0,1,0.45,1,1v24
+				C892.25,327.55,891.8,328,891.25,328z"/>
+		</defs>
+		<clipPath id="XMLID_2_">
+			<use xlink:href="#XMLID_17_"  style="overflow:visible;"/>
+		</clipPath>
+		<path id="XMLID_18_" className="st8" d="M889.25,387h-224c-0.55,0-1-0.45-1-1v-24c0-0.55,0.45-1,1-1h224c0.55,0,1,0.45,1,1v24
+			C890.25,386.55,889.8,387,889.25,387z"/>
+		<g className="st9">
+			<defs>
+				<path id="XMLID_19_" d="M891.25,271h-224c-0.55,0-1-0.45-1-1v-24c0-0.55,0.45-1,1-1h224c0.55,0,1,0.45,1,1v24
+					C892.25,270.55,891.8,271,891.25,271z"/>
+			</defs>
+			<clipPath id="XMLID_3_">
+				<use xlink:href="#XMLID_19_"  style="overflow:visible;"/>
+			</clipPath>
+			<path id="XMLID_20_" className="st10" d="M889.25,330h-224c-0.55,0-1-0.45-1-1v-24c0-0.55,0.45-1,1-1h224c0.55,0,1,0.45,1,1v24
+				C890.25,329.55,889.8,330,889.25,330z"/>
+			<use xlink:href="#XMLID_19_"  style="overflow:visible;fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;"/>
+		</g>
+		<use xlink:href="#XMLID_17_"  style="overflow:visible;fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;"/>
+	</g>
+	<line className="st11 personasXetapa" x1="930" y1="196" x2="959" y2="196"/>
+	<line className="st11 personasXetapa" x1="937.5" y1="255.5" x2="959.5" y2="255.5"/>
+	<line className="st11 personasXetapa" x1="937.5" y1="313.5" x2="958.5" y2="313.5"/>
+	<line className="st11 personasXetapa" x1="945.5" y1="368.5" x2="960.5" y2="368.5"/>
+	<line className="st0 porcentajeXetapa" x1="940.5" y1="210.5" x2="957.5" y2="210.5"/>
+	<line className="st0 porcentajeXetapa" x1="940" y1="269" x2="959" y2="269"/>
+	<line className="st0 porcentajeXetapa" x1="939" y1="327" x2="955" y2="327"/>
+	<line className="st0 porcentajeXetapa" x1="946" y1="388" x2="958" y2="388"/>
+	<line className="st0 leadPromedio" x1="671" y1="426" x2="869" y2="426"/>
+	<line className="st0 nombreEtapas" x1="669" y1="396" x2="706" y2="396"/>
+	<line className="st0 nombreEtapas" x1="667" y1="338" x2="699" y2="338"/>
+	<line className="st0 nombreEtapas" x1="668" y1="281" x2="747" y2="281"/>
+	<line className="st0 nombreEtapas" x1="667" y1="222" x2="722" y2="222"/>
+	<g>
+		<defs id="barrita2" className="barritas">
+			<path id="XMLID_21_" d="M891.25,269h-224c-0.55,0-1-0.45-1-1v-24c0-0.55,0.45-1,1-1h224c0.55,0,1,0.45,1,1v24
+				C892.25,268.55,891.8,269,891.25,269z"/>
+		</defs>
+		<clipPath id="XMLID_4_">
+			<use xlink:href="#XMLID_21_"  style="overflow:visible;"/>
+		</clipPath>
+		<path id="XMLID_24_" className="st12" d="M889.25,328h-224c-0.55,0-1-0.45-1-1v-24c0-0.55,0.45-1,1-1h224c0.55,0,1,0.45,1,1v24
+			C890.25,327.55,889.8,328,889.25,328z"/>
+		<g className="st13">
+			<defs>
+				<path id="XMLID_22_" d="M891.25,212h-224c-0.55,0-1-0.45-1-1v-24c0-0.55,0.45-1,1-1h224c0.55,0,1,0.45,1,1v24
+					C892.25,211.55,891.8,212,891.25,212z"/>
+			</defs>
+			<clipPath id="XMLID_5_">
+				<use xlink:href="#XMLID_22_"  style="overflow:visible;"/>
+			</clipPath>
+			<path id="XMLID_23_" className="st14" d="M889.25,271h-224c-0.55,0-1-0.45-1-1v-24c0-0.55,0.45-1,1-1h224c0.55,0,1,0.45,1,1v24
+				C890.25,270.55,889.8,271,889.25,271z"/>
+			<use xlink:href="#XMLID_22_"  style="overflow:visible;fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;"/>
+		</g>
+		<use xlink:href="#XMLID_21_"  style="overflow:visible;fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;"/>
+	</g>
+	<g>
+		<defs id="barrita3" className="barritas">
+			<path id="XMLID_25_" d="M891.25,212h-224c-0.55,0-1-0.45-1-1v-24c0-0.55,0.45-1,1-1h224c0.55,0,1,0.45,1,1v24
+				C892.25,211.55,891.8,212,891.25,212z"/>
+		</defs>
+		<clipPath id="XMLID_6_">
+			<use xlink:href="#XMLID_25_"  style="overflow:visible;"/>
+		</clipPath>
+		<path id="XMLID_28_" className="st15" d="M889.25,271h-224c-0.55,0-1-0.45-1-1v-24c0-0.55,0.45-1,1-1h224c0.55,0,1,0.45,1,1v24
+			C890.25,270.55,889.8,271,889.25,271z"/>
+		<g className="st16">
+			<defs>
+				<path id="XMLID_26_" d="M891.25,155h-224c-0.55,0-1-0.45-1-1v-24c0-0.55,0.45-1,1-1h224c0.55,0,1,0.45,1,1v24
+					C892.25,154.55,891.8,155,891.25,155z"/>
+			</defs>
+			<clipPath id="XMLID_7_">
+				<use xlink:href="#XMLID_26_"  style="overflow:visible;"/>
+			</clipPath>
+			<path id="XMLID_27_" className="st17" d="M889.25,214h-224c-0.55,0-1-0.45-1-1v-24c0-0.55,0.45-1,1-1h224c0.55,0,1,0.45,1,1v24
+				C890.25,213.55,889.8,214,889.25,214z"/>
+			<use xlink:href="#XMLID_26_"  style="overflow:visible;fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;"/>
+		</g>
+		<use xlink:href="#XMLID_25_"  style="overflow:visible;fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;"/>
+	</g>
+	<g>
+		<defs id="barrita4" className="barritas">
+			<path id="XMLID_29_" d="M891.25,386h-224c-0.55,0-1-0.45-1-1v-24c0-0.55,0.45-1,1-1h224c0.55,0,1,0.45,1,1v24
+				C892.25,385.55,891.8,386,891.25,386z"/>
+		</defs>
+		<clipPath id="XMLID_8_">
+			<use xlink:href="#XMLID_29_"  style="overflow:visible;"/>
+		</clipPath>
+		<path id="XMLID_32_" className="st18" d="M889.25,445h-224c-0.55,0-1-0.45-1-1v-24c0-0.55,0.45-1,1-1h224c0.55,0,1,0.45,1,1v24
+			C890.25,444.55,889.8,445,889.25,445z"/>
+		<g className="st19">
+			<defs>
+				<path id="XMLID_30_" d="M891.25,329h-224c-0.55,0-1-0.45-1-1v-24c0-0.55,0.45-1,1-1h224c0.55,0,1,0.45,1,1v24
+					C892.25,328.55,891.8,329,891.25,329z"/>
+			</defs>
+			<clipPath id="XMLID_9_">
+				<use xlink:href="#XMLID_30_"  style="overflow:visible;"/>
+			</clipPath>
+			<path id="XMLID_31_" className="st20" d="M889.25,388h-224c-0.55,0-1-0.45-1-1v-24c0-0.55,0.45-1,1-1h224c0.55,0,1,0.45,1,1v24
+				C890.25,387.55,889.8,388,889.25,388z"/>
+			<use xlink:href="#XMLID_30_"  style="overflow:visible;fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;"/>
+		</g>
+		<use xlink:href="#XMLID_29_"  style="overflow:visible;fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;"/>
+	</g>
+</g>
+</svg>

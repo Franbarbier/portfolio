@@ -1,0 +1,233 @@
+#atom-tit{
+    font-size: 2em;
+    margin-bottom: 3.5%;
+}
+#dash-imgs-cont{
+    position: absolute;
+    width: 100%;
+  
+}
+#dash-imgs-cont img{
+}
+#dash-cont{
+    opacity:0;
+    z-index: 2;
+    border-radius: 10px;
+    overflow: hidden;
+    position: relative;
+}
+#dash-cont{
+    transition: .4s;
+}
+#dash-cont img{
+}
+#dash-cont:hover{
+    opacity: 0.7!important;
+}
+/* Animaciones para el wire dash */
+#rect1, #linea1Top, #circuloMasNav, #circuloUser, #circuloNav4, #flechita1, #flechita2, #breadCrumb, .boxes, #tituloLeads, .textBoxes, .numBoxes, .circuloLeads, .tituloTable, .primeraFila, .segundaFila, .terceraFila, .cuartaFila, .quintaFila, #tituloFunnel, .barritas path, .personasXetapa, .porcentajeXetapa, .nombreEtapas, .leadPromedio
+{ transition: all .8s;	transition-timing-function: ease-out; }
+
+
+#rect1{
+	stroke-dasharray: 1210;
+    stroke-dashoffset: 1210;
+}
+#linea1Top{
+	stroke-dasharray: 1130;
+    stroke-dashoffset: 1120;
+}
+#circuloMasNav{
+	stroke-dasharray: 40;
+    stroke-dashoffset: 300;
+}
+#circuloUser{
+	stroke-dasharray: 80;
+    stroke-dashoffset: 202;	
+}
+#circuloNav1, #circuloNav2, #circuloNav3{ transition: all .4s; }
+
+#circuloNav1{transform: scale(0); opacity: 0}
+#circuloNav2{transform: scale(0) translateX(1px) translateY(-2px); transition-delay: .3s; opacity: 0}
+#circuloNav3{transform: scale(0);transition-delay: .7s;opacity: 0}
+
+#circuloNav4{
+	stroke-dasharray: 40;
+    stroke-dashoffset: 70;
+    opacity: 0;	
+}
+#flechita1, #flechita2{ opacity: 0; }
+#flechita1{ transform: translate(-4%, 6%); }
+#flechita2{ transform: translate(6%, -4%); }
+
+#breadCrumb{
+	transition-delay: .2s;
+	stroke-dasharray: 55;
+    stroke-dashoffset: 60;
+}
+.boxes{ 
+	stroke-dasharray: 530;
+    stroke-dashoffset: 530;
+}
+#box1{ transition-delay: .2s }
+#box2{ transition-delay: .5s }
+#box3{ transition-delay: .7s }
+
+#tituloLeads{
+	stroke-dasharray: 410;
+	stroke-dashoffset: 410;
+	transition-delay: .5s;
+}
+.textBoxes{
+	opacity: 0;
+    stroke-dasharray: 130;
+    stroke-dashoffset: 130;
+}
+#textBox1, #textBox2{ transition-delay: .7s }
+#textBox3, #textBox4{ transition-delay: 1s }
+#textBox5, #textBox6{ transition-delay: 1.2s }
+
+.numBoxes{
+	stroke-dasharray: 167;
+    stroke-dashoffset: 167;
+}
+.numBoxes:nth-of-type(1){transition-delay: .9s}
+.numBoxes:nth-of-type(2){transition-delay: 1.15s}
+.numBoxes:nth-of-type(3){transition-delay: 1.35s}
+
+.circuloLeads{
+	transform: translateX(-4%);
+	opacity: 0;
+	transition-delay: .7s;
+}
+.circuloLeads:first-child{ transition-delay: .7s }
+.circuloLeads:last-child{ transition-delay: .9s }
+
+.tituloTable{
+	opacity: 0;
+	transition-delay: .8s;
+	stroke-dasharray: 76;
+    stroke-dashoffset: 57;
+}
+.primeraFila, .segundaFila, .terceraFila, .cuartaFila, .quintaFila{
+	opacity: 0;
+	transform: translateY(3%);
+	transition-delay: 0.8s;
+}
+.segundaFila{ transition-delay: 1.1s }
+.terceraFila{transition-delay: 1.4s}
+.cuartaFila{transition-delay: 1.7s}
+.quintaFila{transition-delay: 2s}
+
+#tituloFunnel{
+	transition-delay: .9s;
+	stroke-dasharray: 100;
+    stroke-dashoffset: 100;
+}
+
+.barritas path{
+	transform: rotateY(90deg);
+    transform-origin: 59%;
+}
+#barrita1 path{transition-delay: .9s}
+#barrita2 path{transition-delay: 1.2s}
+#barrita3 path{transition-delay: 1.5s}
+#barrita4 path{transition-delay: 1.7s}
+
+.personasXetapa{ opacity: 0; transition-delay: 1.6s }
+.porcentajeXetapa{ opacity: 0; transition-delay: 2s }
+.nombreEtapas{ opacity: 0; transition-delay: 2.4s }
+
+.leadPromedio{
+	opacity: 0;
+	stroke-dasharray: 70;
+    stroke-dashoffset: -70;
+    transition-delay: 2.25s
+}
+
+
+/* Nueva posicion svg */
+
+#rect1.newPos{
+	stroke-dasharray: 1210;
+	stroke-dashoffset: 0
+}
+#linea1Top.newPos{
+	stroke-dasharray: 1130;
+	stroke-dashoffset: 0
+}
+#circuloMasNav.newPos{
+	stroke-dasharray: 0;
+	stroke-dashoffset: 0
+}
+#circuloUser.newPos{
+	stroke-dasharray: 0;
+	stroke-dashoffset: 0
+}
+#circuloNav1.newPos, #circuloNav2.newPos, #circuloNav3.newPos{
+	opacity: 1;
+	transform: scale(1)
+}
+#circuloNav2.newPos{
+	transform: scale(1) translateX(1px) translateY(-2px)
+}
+#circuloNav4.newPos{
+	stroke-dasharray: 0;
+    stroke-dashoffset: 0;
+    opacity: 1
+}
+#flechita1, #flechita2.newPos{
+	opacity: 1;
+    transform: translate(0)
+}
+#breadCrumb.newPos{
+	stroke-dasharray: 55;
+   	stroke-dashoffset: 0
+}
+.boxes.newPos{
+	stroke-dasharray: 530;
+   	stroke-dashoffset: 0
+}
+#tituloLeads.newPos{
+	stroke-dasharray: 410;
+   	stroke-dashoffset: 0
+}
+.textBoxes.newPos{
+	stroke-dasharray: 130;
+   	stroke-dashoffset: 0;
+   	opacity:1
+}
+.numBoxes.newPos{
+	stroke-dasharray: 167;
+   	stroke-dashoffset: 0
+}
+.circuloLeads.newPos{
+	transform: translateX(0);
+   	opacity: 1
+}
+.tituloTable.newPos{
+	stroke-dasharray: 76;
+    stroke-dashoffset: 0;
+   	opacity: 1
+}
+.primeraFila.newPos, .segundaFila.newPos, .terceraFila.newPos, .cuartaFila.newPos, .quintaFila.newPos{
+	transform: translateY();
+   	opacity: 1
+}
+#tituloFunnel.newPos{
+	stroke-dasharray: 100;
+    stroke-dashoffset: 0
+}
+.barritas path.newPos{
+	transform: rotateY(0)
+}
+.personasXetapa.newPos, .porcentajeXetapa.newPos, .nombreEtapas.newPos{
+	opacity:1
+}
+
+.leadPromedio.newPos{
+	opacity : 1;
+	stroke-dasharray : 0;
+    stroke-dashoffset : 0
+}
+

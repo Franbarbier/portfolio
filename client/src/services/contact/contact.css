@@ -1,0 +1,130 @@
+
+#final-foto{
+    position: absolute;
+    bottom: 0;
+    z-index: -1;
+    right: -8%;
+    width: 30%;
+}
+#plantita{
+    position: absolute;
+    bottom: 0%;
+    left: 0%;
+    width: 18%;
+}
+#Contact-view{
+    padding-bottom: 15%;
+}
+#Contact-view form{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-top: 3%;
+}
+#Contact-view form>div{
+    width: 45%;
+    margin-top: 10%;
+}
+#Contact-view form>div:last-child{
+    width: 100%;
+}
+#Contact-view form>div textarea{
+    width: 100%;
+}
+.inputes, .inputesTxt{
+	outline: none;
+	position: relative;
+	background: none;
+    display: block;
+	border: none;
+    padding: 3px;
+	margin-bottom: 5%;
+	padding: 5px;
+	border-image-slice: 10;
+    border-bottom: 1px solid #7b7b7b;
+
+	font-size: 0.9em;
+    width: 100%;
+    resize: none;
+}
+.tags{
+	font-weight: 500;
+	color: #b5b5b5;
+	font-size: 0.7em;
+	transition: .25s;
+	transform: translate(22% , 190%) scale(1.4);
+    display: block;
+}
+
+/* #Contact-view form label{
+    color: #7b7b7b;
+    font-size: 0.8em;
+    transform: translate(21px, 22px) scale(1.3);
+    display: block;
+    width: 110px;
+    cursor: text;
+}
+#Contact-view form input, #Contact-view form>div textarea{
+    padding: 3px;
+    border: none;
+    background: transparent;
+    outline: none;
+    width: 100%;
+    border-bottom: 1px solid #7b7b7b;
+    resize: none;
+} */
+#enviar input{
+    width: 100%;
+    display: block;
+    cursor: pointer;
+    padding: 8px 0;
+    background: #1c1c1c;
+    border: 1px solid #1c1c1c;
+    color: white;
+    font-weight: 600;
+    font-size: 1em;
+    letter-spacing: 2px;
+    border-radius: 3px;
+    transition: .2s;
+}
+#enviar input:hover{
+    background: transparent;
+    color: #1c1c1c;
+}
+#wpp img{
+    height: 1em;
+    margin-right: 7px;
+    transform: translateY(15%);
+}
+
+#wpp button{
+    width: 100%;
+    margin-top: 3%;
+    cursor: pointer;
+    padding: 8px 0;
+    background: transparent;
+    color: #1c1c1c;
+    border: 1px solid #1c1c1c;
+
+    font-weight: 600;
+    font-size: 1em;
+    letter-spacing: 2px;
+    border-radius: 3px;
+    transition: .2s;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+@media (max-width: 800px) {
+    
+    #final-foto{
+        position: absolute;
+        bottom: 0;
+        z-index: -1;
+        right: 0%;
+        width: 30%;
+    }
+    }
