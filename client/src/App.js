@@ -3,7 +3,7 @@ import './global.css';
 import React, { useState, useEffect } from 'react'
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import Services from './views/Services/Services.js';
-import Home from './views/Home/Home.js';
+import Home from './views/home/Home.js';
 
 
 const App = () => {
