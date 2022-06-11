@@ -1,0 +1,390 @@
+#WireAnimation-view{
+    width: 100%;
+    /* background: #dadada; */
+    height: 65vh;
+    border-radius: 10px;
+    border: 1px solid var(--bordes);
+    position: relative;
+    overflow: hidden;
+}
+#color-top-bar{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 8px;
+    background-image: linear-gradient(90deg, #d09796, #89388e, #42ad9f );
+    z-index: 5;
+}
+
+#circulo-rosa{
+    background: radial-gradient(#d6197a -110%, rgba(214, 25, 122, 0) 65%);
+    width: 90%;
+    padding-top: 90%;
+    /* height: 200px; */
+    position: absolute;
+    display: block;
+    top: -30%;
+    left: -22%;
+
+}
+#circulo-celeste{
+    background-image: radial-gradient(rgb(42, 172, 222) -110%, rgba(214, 25, 122, 0) 65%);
+    width: 90%;
+    padding-top: 90%;
+    /* height: 200px; */
+    position: absolute;
+    display: block;
+    bottom: -30%;
+    right: -22%;
+}
+#WireAnimation-view aside{
+    height: 100%;
+}
+#great-wire{
+    background-color: #0f0f0fad;
+    width: 100%;
+    position: relative;
+    height: 100%;
+    display: block;
+    backdrop-filter: blur(5px);
+}
+#wire-card{
+    position: absolute;
+    background: #1c1c1c;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 3%;
+    border-radius: 5px;
+    width: 38%;
+}
+#wire-card{
+    position: relative;
+}
+#top-bar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 24px;
+    margin-bottom: 14%;
+}
+#nav-menu{
+    position: relative;
+    width: 34px;
+}
+#nav-menu>div{
+    width: 4px;
+    height: 4px;
+    background-color: #969696;
+    position: absolute;
+    top: 50%;
+    right: 10%;
+    border-radius: 50px;
+}
+#nav-menu>div:nth-child(1){
+    transform: translate(-220%, -50%);
+}
+#nav-menu>div:nth-child(2){
+    transform: translate(-50%, -50%);
+}
+#nav-menu>div:nth-child(3){
+    transform: translate(110%, -50%);
+}
+#users{
+    display: flex;
+    flex-direction: row-reverse;
+}
+#users>div{
+    height: 24px;
+    width: 24px;
+    border-radius: 50px;
+    position: relative;
+}
+#users>div:nth-child(3){
+    transform: translateX(-5px);
+}
+#users>div:nth-child(2){
+    transform: translateX(-10px);
+}
+#users>div:nth-child(1){
+    /* transform: translateX(-15px); */
+    animation-name: addUser;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate-reverse;
+}
+@keyframes addUser {
+    0% {transform: translateX(-301%); opacity: 1}
+    10% {transform: translateX(-301%); opacity: 1}
+    20% {transform: translateX(-222%) rotate(90deg); opacity: 1}
+    30% {transform: translateX(-140%) rotate(180deg); opacity: 1}
+    40% {transform: translateX(-15px) rotate(270deg); opacity: 1}
+    60% {transform: translateX(-15px) rotate(270deg); opacity: 1}
+    80% {transform: translateX(-15px) rotate(270deg); opacity: 1}
+    100% {transform: translateX(-15px) rotate(270deg); opacity: 1}
+}
+
+#users>div span{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -45%);
+    font-size: 10px;
+}
+.user:nth-child(4){
+    background-color: #d09796;
+   animation-name: user4;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate-reverse;
+}
+@keyframes user4 {
+    0% {opacity: 0}
+    10% {opacity: 0}
+    20% {opacity: 1}
+    40% { opacity: 1}
+    60% { opacity: 1}
+    80% { opacity: 1}
+    100% { opacity: 1}
+}
+.user:nth-child(3){
+    background-color: #89388e;
+   animation-name: user3;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate-reverse;
+}
+@keyframes user3 {
+    0% {opacity: 0}
+    20% {opacity: 0}
+    30% {opacity: 1}
+    40% { opacity: 1}
+    60% { opacity: 1}
+    80% { opacity: 1}
+    100% { opacity: 1}
+}
+.user:nth-child(2){
+    background-color: #42ad9f;
+    animation-name: user2;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate-reverse;
+}
+@keyframes user2 {
+    0% {opacity: 0}
+    20% {opacity: 0}
+    30% {opacity: 0}
+    40% { opacity: 1}
+    60% { opacity: 1}
+    80% { opacity: 1}
+    100% { opacity: 1}
+}
+#add-user{
+    background-color: #373737;
+    color: #969696;
+
+}
+#rects{
+    position: relative;
+}
+#rects>div:nth-child(1), #rects>div:nth-child(2), #rects>div:nth-child(3){
+    position: relative;
+    width: 100%;
+    padding-bottom: 40%;
+    margin-bottom: 10%;
+
+    animation-name: mergeRects;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate-reverse;
+}
+@keyframes mergeRects {
+    0% {transform: translateY();}
+    60% { transform: translateY();}
+    61% { transform: translateY();}
+    80% { transform: translateY();}
+    100% { transform: translateY();}
+}
+#rects>div>div{
+    width: 100%;
+    height: 100%;
+    border-radius: 5px;
+    position: absolute;
+}
+
+.rect-vacio{
+    border: 2px dashed #373737;
+    /* opacity: 0; */
+}
+#rects>div:nth-child(1) .rect-color{
+    background-color: #d09796;
+    border: 2px dashed #d09796;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    transform: translateY(25%);
+
+    animation-name: rect1;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate-reverse;
+}
+@keyframes rect1 {
+    0% { transform: translateY(15%); opacity: 0}
+    13% { transform: translateY(15%); opacity: 0}
+    20% { transform: translateY(0%); opacity: 1}
+    100% { transform: translateY(0%); opacity: 1}
+}
+#rects>div:nth-child(2) .rect-color{
+    background-color: #89388e;
+    border: 2px dashed #89388e;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    transform: translateY(25%);
+
+    animation-name: rect2;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate-reverse;
+}
+@keyframes rect2 {
+    0% { transform: translateY(15%); opacity: 0}
+    23% { transform: translateY(15%); opacity: 0}
+    30% { transform: translateY(0%); opacity: 1}
+    100% { transform: translateY(0%); opacity: 1}
+}
+#rects>div:nth-child(3) .rect-color{
+    background-color: #42ad9f;
+    border: 2px dashed #42ad9f;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    transform: translateY(25%);
+
+    animation-name: rect3;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate-reverse;
+}
+@keyframes rect3 {
+    0% { transform: translateY(15%); opacity: 0}
+    33% { transform: translateY(15%); opacity: 0}
+    40% { transform: translateY(0%); opacity: 1}
+    100% { transform: translateY(0%); opacity: 1}
+}
+
+
+#rects>div:nth-child(2){
+    animation-name: rect2Collapse;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate-reverse;
+}
+@keyframes rect2Collapse{
+    0%{ transform: translateY(0%);}
+    50%{ transform: translateY(0%);}
+    53%{ transform: translateY(15%);}
+    63%{ transform: translateY(-125%);}
+    100%{ transform: translateY(-125%);}
+}
+
+#rects>div:nth-child(3){
+    animation-name: rect3Collapse;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate-reverse;
+}
+@keyframes rect3Collapse{
+    0%{ transform: translateY(0%);}
+    50%{ transform: translateY(0%);}
+    53%{ transform: translateY(15%);}
+    63%{ transform: translateY(-250%);}
+    100%{ transform: translateY(-250%);} 
+}
+
+
+#final-rect{
+    background-image: linear-gradient(90deg, #d09796, #89388e, #42ad9f );
+    border-radius: 5px;
+    position: absolute!important;
+    top: 0;
+    width: 100%;
+    padding-bottom: 40%;
+
+    animation-name: finalRect;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate-reverse;
+}
+@keyframes finalRect{
+    0%{opacity: 0;}
+    67%{ opacity: 0;}
+    70%{ opacity: 1; transform: scale(1.05); }
+    73%{ opacity: 1;}
+    100%{opacity: 1;}
+}
+
+
+#wire-tit{
+    background-color: #373737;
+    width: 85%;
+    border-radius: 50px;
+    height: 9px;
+    display: block;
+    margin-bottom: 12%;
+    
+    animation-name: appear;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate-reverse;
+}
+
+
+#wire-desc>div{
+    background-color: #373737;
+    width: 100%;
+    border-radius: 50px;
+    height: 7px;
+    display: block;
+    margin-top: 5%;
+    
+    animation-name: appear;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate-reverse;
+}
+@keyframes appear{
+    0%{opacity: 0;}
+    75%{ opacity: 0;}
+    80%{ opacity: 1;}
+    100%{opacity: 1;}
+}
+
+#wire-desc>div:last-child{
+    width: 60%;
+}
+#tipos{
+    position: absolute;
+    bottom: 0;
+    width: 83%;
+}
+#tipos span{
+    color: #373737;
+    font-weight: 600;
+    font-size: 2.7em;
+    display: block;
+    margin-top: 10%;
+    
+    animation-name: appear2;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate-reverse;
+}
+@keyframes appear2{
+    0%{opacity: 0;}
+    82%{ opacity: 0;}
+    87%{ opacity: 1;}
+    100%{opacity: 1;}
+}

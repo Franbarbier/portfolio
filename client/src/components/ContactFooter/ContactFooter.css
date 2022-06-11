@@ -1,0 +1,135 @@
+#ContactFooter-view{
+    padding: 4% 7.6%;
+    background-color: #fff;
+}
+#ContactFooter-view>div{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#ContactFooter-view>div>div{
+    /* width: 30%; */
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 100%;
+}
+#ContactFooter-view>div>form{
+    width: 65%;
+}
+#ContactFooter-view>div>div h5{
+    font-size: 4em;
+    font-weight: 300;
+}
+#ContactFooter-view>div>div h5 span{
+    background-image: radial-gradient(circle farthest-corner at 100% 0,#ffaccf 28%,#5cb6f8 51%,#ba75e0 87%,#dd5183 96%) ;
+}
+#ContactFooter-view form{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+#ContactFooter-view form input, #ContactFooter-view form textarea{
+    border: 1px solid rgb(193, 193, 193);
+    /* background-color: #fafafa; */
+    width: 100%;
+    margin-bottom: 10%;
+    font-size: 0.9em;
+    outline: none;
+    padding: 12px 20px;
+    transition: .4s;
+}
+#ContactFooter-view form textarea{
+    resize: none;
+    margin-bottom: 0%;
+}
+#ContactFooter-view form input:focus, #ContactFooter-view form textarea:focus{
+    border-color: #4a4a4a;
+}
+#ContactFooter-view form>div:nth-child(5){
+    width: 100%;
+}
+#ContactFooter-view form>div{
+    width: 48%;
+}
+#ContactFooter-view form button{
+    display: block;
+    margin-top: 5%;
+    color: #4c4c4c;
+    font-weight: 300;
+    border-color: #4c4c4c;
+    transition: .7s;
+}
+#ContactFooter-view form button:hover{
+    background-color: #272727;
+    color: #fff;
+}
+#ContactFooter-view form label{
+    font-size: 0.8em;
+    color: #4c4c4c;
+    font-weight: 300;
+
+    background: #fff;
+    padding: 2px 5px;
+    transform: translate(6px, 12px);
+    display: block;
+    z-index: 1;
+    position: relative;
+    width: fit-content;
+}
+/* #contact-info{ */
+#ContactFooter-view>div>div>div{
+        width: 37%;
+}
+#ContactFooter-view h5{
+    /* margin-top: 20%; */
+}
+#contact-info>a{
+    margin: 15% 0;
+    padding: 3% 0;
+    display: block;
+    transition: .5s;
+    position: relative;
+    width: 100%;
+    font-size: 1.2em;
+}
+#contact-info>a:after{
+    content: '';
+    display: block;
+    width: 00%;
+    height: 1px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    background-color: #9a9a9a;
+    transition: 1s;
+}
+#contact-info>a:hover:after{
+    width: 60%;
+}
+#contact-info>a .info-icon{
+    display: block;
+    margin-bottom: 3.5%;
+    width: 24px;
+}
+.data-icon{
+    position: absolute;
+    top: 60%;
+    width: 17px;
+    opacity: 0;
+    /* transition: .7s; */
+}
+#contact-info>a div:hover .data-icon{
+    opacity: 0.5;
+    transform: translateX(75%);
+    /* posi */
+}
+.data-icon:hover{
+    opacity: 1!important;
+}
+.copied{
+    box-shadow: 0px 0px 7px 1px #87c57e;
+    border-radius: 3px;
+    transform: translateX(75%)!important;
+    opacity: 1!important;
+}

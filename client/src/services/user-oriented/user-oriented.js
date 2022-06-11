@@ -125,7 +125,7 @@ const UserOriented = () => {
                           <div>
                               
                             <h3>Lo-fi Wireframes</h3>
-                            <p>We got to work on defining the narrative and the different hierarchies that would eventually make up our Online Banking.</p>
+                            <p>We got to work on defining the narrative and the different hierarchies that would eventually make up our Web App.</p>
                             <img src="/assets/user-oriented/wire1.jpg" />
                           </div>
                         </div>
@@ -140,8 +140,8 @@ const UserOriented = () => {
                         <div>
                           <div>
                             
-                          <h3>Breaking down the banking experience</h3>
-                              <p>From account balances to investment opportunities and all the way to payments made, this project involved thinking a broad range of solutions for an even broader range of users.</p>
+                          <h3>Breaking down the experience</h3>
+                              <p>From videos to added notes and all the way to payments made, this project involved thinking a broad range of solutions for an even broader range of users.</p>
                               <div id="components-img">
                                 <div className="flexi-beet">
                                   <div className="flexi-column treinta flexi-beet">

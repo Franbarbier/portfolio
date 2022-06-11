@@ -1,14 +1,15 @@
 /* ::selection{ background: #bc8c3e; color: #fafafa } */
 html {
-	scroll-behavior: smooth;
+	/* scroll-behavior: smooth; */
+	scroll-behavior: auto
   }
 @import url('https://fonts.googleapis.com/css2?family=Catamaran:wght@100;200;300;400;500;600;700;800;900&display=swap');
 *{ margin: 0; padding: 0; box-sizing: border-box; transition: .2s cubic-bezier(0.13, 0.77, 0.33, 1);}
 a{ text-decoration: none; color: inherit;}
 li{ list-style: none; }
-body{ font-family: 'Catamaran'; overflow-x: hidden; color: #1d1d1f; line-height: 1.3;}
+body{ font-family: 'Catamaran'; overflow-x: hidden; /* color: #1d1d1f;*/ line-height: 1.3;-webkit-font-smoothing: antialiased;}
 button, input, textarea{ font-family: 'Catamaran'; }
-html{scroll-behavior: smooth; }
+/* html{scroll-behavior: smooth; } */
 .general-cont{
 	width: 80%;
 	display: block;
@@ -16,17 +17,42 @@ html{scroll-behavior: smooth; }
 }
 :root {
 	--taggie: #9300ff;
+	--bordes: hsla(0,0%,100%,.2)
 }
 
-::-webkit-scrollbar{width:9px;position:absolute; background-color: rgb(242, 242, 242);}
+::-webkit-scrollbar{width:9px;position:absolute; background-color: rgb(242, 242, 242); height: 4px;}
 ::-webkit-scrollbar:hover{width:9px}
 ::-webkit-scrollbar-track{background:rgb(242, 242, 242);transition:background .2s}
 ::-webkit-scrollbar-track:hover{}
-::-webkit-scrollbar-thumb{background:hsla(0,0%,47%,.8);transition:background .2s;border-radius: 4px;}
+::-webkit-scrollbar-thumb{background:rgba(138, 138, 138, 0.8);transition:background .2s;border-radius: 4px;}
 ::-webkit-scrollbar-thumb:hover{background:hsla(0,0%,47%,.95)}
 
+#home-view>header{ scroll-behavior: smooth; }
 
 @media (max-width: 800px) {
 	html{overflow-x: none; }
 }
 
+
+/* PArte del effecto del texto */
+/* start */
+/*
+transform: translate3d(0px, 40px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 2deg);
+opacity: 0;
+transform-style: preserve-3d;
+
+
+-webkit-transform:translate3d(0, 3em, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(null, 4deg);-moz-transform:translate3d(0, 3em, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(null, 4deg);
+-ms-transform:translate3d(0, 3em, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(null, 4deg);
+
+transform: translate3d(0, 5em, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0deg, 25deg);
+opacity:0
+
+
+
+*/
+/* end */
+/* 
+translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg)
+opaccity: 1
+*/

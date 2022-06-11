@@ -1,0 +1,58 @@
+footer{
+    background-color: #fafafa;
+    border-top: 1px solid #dadada;
+    padding: 3.5% 7.6%;
+    display: flex;
+    justify-content: space-between;
+    align-self: center;
+}
+footer>div{
+    width: 45%;
+}
+footer>ul{
+    width: 45%;
+    text-align: right;
+    display: flex;
+    justify-content: flex-end;
+}
+footer>ul li{
+    margin-left: 7.5%;
+    cursor: pointer;
+    font-size: 0.9em;
+    color: #606060;
+    position: relative;
+    transition: .7s;
+
+}
+footer>ul li:before{
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 115%;
+    height: 2px;
+    width: 100%;
+    background-image: radial-gradient(circle farthest-side at 100% 100%,#d09796 1%,#e3cae5 29%,#eb93dc 47%,#b388de 81%,#42ad9f);
+    transition: .7s;
+
+}
+footer>ul li:after{
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 115%;
+    height: 2px;
+    width: 0%;
+    background: #656565;
+    transition: .7s;
+
+}
+
+footer>ul li:hover{
+    transform: translateY(-5px);
+
+}
+footer>ul li:hover:after, footer>ul li:hover:before{
+    width: 100%;
+    transform: translateY(5px);
+
+}

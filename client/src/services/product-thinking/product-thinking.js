@@ -343,7 +343,7 @@ const ProductThinking = () => {
                               </div>
                               <div className="description">
                                 <h5>the result</h5>
-                                <p>Speak for itself</p>
+                                <p>Speaks for itself</p>
                                 <div>
                                   <h5 className="big-lbl">RESEARCH</h5>
                                   <div id="research-cont">

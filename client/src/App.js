@@ -1,8 +1,9 @@
 import './App.css';
 import './global.css';
 import React, { useState, useEffect } from 'react'
-import Home from './views/home/home.js';
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+import Services from './views/Services/Services.js';
+import Home from './views/Home/Home.js';
 
 
 const App = () => {
@@ -14,6 +15,20 @@ const App = () => {
      }, []);
   // const dispatch = useDispatch()
 
+  
+useEffect(()=>{
+    let href = window.location.href; // get the url
+    let id = href.split("#")[1];
+    let element = document.getElementById(id);
+
+    console.log(id, element)
+    setTimeout(() => {
+        if (id == null) {
+            window.scrollTo({ top: 0});
+        }
+    }, 500);
+},[])
+
   function render(){
 
       return <Router>
@@ -21,6 +36,9 @@ const App = () => {
                 <Switch>
                     <Route exact path="/">
                         <Home />
+                    </Route>
+                    <Route exact path="/expertise">
+                        <Services />
                     </Route>
                    
                 </Switch>

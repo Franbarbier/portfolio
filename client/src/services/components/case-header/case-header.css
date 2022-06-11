@@ -21,9 +21,25 @@
 #CaseHeader-component .tag{
     font-size: 0.9em;
     color: white;
-    background-color: #8a8a8a;
     border-radius: 2px;
     padding: 5px 8px 3px;
     margin-right: 5px;
     margin-bottom: 5px;
 }
+.tag.Reforma{
+    background-color: #f3dda2;
+}
+.tag.Taggie{
+    background-color: var(--taggie);
+}
+/* background-image: linear-gradient(71deg,#cfebff,#fcbabc 36%,#dd5183 55%,#ba75e0); */
+/* #CaseHeader-component .tag:nth-child(1){ background-color: #cfebff; }
+#CaseHeader-component .tag:nth-child(2){ background-color: #dd5183; }
+#CaseHeader-component .tag:nth-child(3){ background-color: #ba75e0; }
+#CaseHeader-component .tag:nth-child(4){ background-color: #cfebff; }
+#CaseHeader-component .tag:nth-child(5){ background-color: #fcbabc; }
+#CaseHeader-component .tag:nth-child(6){ background-color: #fcbabc; }
+#CaseHeader-component .tag:nth-child(7){ background-color: #cfebff; }
+#CaseHeader-component .tag:nth-child(8){ background-color: #fcbabc; }
+#CaseHeader-component .tag:nth-child(9){ background-color: #ba75e0; }
+#CaseHeader-component .tag:nth-child(10){ background-color: #dd5183; } */

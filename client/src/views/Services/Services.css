@@ -1,0 +1,189 @@
+/* @import "https://www.corebook.io/css/corebook-new.webflow.css?v=x4"; */
+
+#Services-view>header{
+    padding-top: 40vh;
+    color: #f0f0f0;
+    background: #0b0b0b;
+    padding-bottom: 18vh;
+    height: 100vh;
+}
+#Services-view>header h1{
+    font-size: 5em;
+    line-height: 1.3;
+    font-weight: 400;
+    display: inline;
+
+}
+#Services-view>header h1:nth-child(3){
+    display: inline-block;
+}
+#Services-view>header p{
+    margin-top: 2vh;
+    font-size: 1.25em;
+}
+#Services-view>header h2{
+    margin-top: 2vh;
+    width: 100%;
+    font-size: 1.25em;
+    font-weight: 300;
+    color: #ddd;
+    display: inline;
+}
+.gradient{
+    /* background: radial-gradient(circle farthest-corner at 100% 0,#d09796 28%,#89388e 51%,#42ad9f 87%,#42ad9f 96%);
+    background: radial-gradient(circle farthest-corner at 100% 0,#ffaccf 28%,#5cb6f8 51%,#ba75e0 87%,#dd5183 96%); */
+    background-image: linear-gradient(71deg,#cfebff,#fcbabc 36%,#dd5183 55%,#ba75e0);
+    
+   
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+#Services-view>article{
+}
+
+#Services-view article>div>h2{
+
+}
+.row-title{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    cursor: pointer;
+}
+header .general-cont>div>div{
+    overflow: hidden;
+}
+.general-cont:last-child .row-title{
+    cursor: inherit;
+
+}
+.row-title h3{
+    font-size: 2em;
+    position: relative;
+}
+.row-title img{
+    width: 24px;
+    height: auto;
+    opacity: 0.8;
+}
+
+#Services-view>article>div>section{
+    padding: 5vh 1%;
+    margin: 7vh auto;
+    border-bottom: 1px #ddd solid;
+}
+#Services-view article .row-title h3, #Services-view>article .row-title img{
+    opacity: 0.8;
+}
+#Services-view article .row-title:hover h3, #Services-view>article .row-title:hover img{
+    opacity: 1;
+}
+.content-service{
+    padding: 0 7vw;
+}
+
+
+#Services-view>article>div>section:last-child{
+    margin-bottom: 0%;
+    position: relative;
+    /* overflow: hidden; */
+}
+#arrow-cont{
+    /* width: 35%; */
+    /* margin: auto; */
+    transform: translateX(-0.5vw);
+    margin-top: 3.5%;
+
+}
+#arrow-cont img{
+    filter: invert(0.7);
+
+    animation-name: arrow;
+    -webkit-animation-duration: 5s;
+    animation-duration: 4s;
+    -webkit-animation-iteration-count: infinite;
+    animation-iteration-count: infinite;
+}
+@keyframes arrow {
+    0% {
+      transform: translate3d(0, 0, 10px) rotateX(37deg);
+      opacity  : 0;
+    }
+  
+    20% {
+      transform: translate3d(0, 0, 10px) rotateX(0);
+      opacity  : 1;
+    }
+  
+    60% {
+      transform: translate3d(0, 0, 10px) rotateX(0);
+      opacity  : 1;
+    }
+  
+    80% {
+      transform: translate3d(0, 0, 10px) rotateX(0);
+      opacity  : 1;
+    }
+  
+    100% {
+      transform: translate3d(0, 20px, 10px) rotateX(-45deg);
+      opacity  : 0;
+    }
+  }
+
+@media (max-width: 800px) {
+    
+    
+    #Services-view>header h1{
+        font-size: 3em;
+        margin-bottom: 8%;
+    
+    }
+    .content-service {
+        padding: 0 5%;
+    }
+    .general-cont{
+        width: 90%;
+    }
+    #arrow-cont{
+        transform: translateX(-2.5%);
+        margin-top: 15%;
+    }
+    
+    
+    
+}
+    
+
+#Services-view>article>div>section h3::after{
+    position: absolute;
+    left: 0%;
+    bottom: 110%;
+    font-size: 14px;
+
+}
+#Services-view>article>div>section:nth-child(1) h3::after{
+    content: '( •—• )';
+    color: rgb(0, 255, 224)
+}
+#Services-view>article>div>section:nth-child(2) h3::after{
+    content: 'ʕ •ᴥ• ʔ';
+    color: rgb(5, 255, 45)
+}
+#Services-view>article>div>section:nth-child(3) h3::after{
+    content: '⊙﹏⊙';
+    color: rgb(0, 255, 148)
+}
+#Services-view>article>div>section:nth-child(4) h3::after{
+    content: '❛ᴗ❛';
+    color: rgb(250, 255, 11)
+}
+#Services-view>article>div>section:nth-child(5) h3::after{
+    content: '(~‾▿‾)~';
+    color: rgb(0, 255, 148)
+}
+#Services-view>article>div>section:nth-child(6) h3::after{
+    content: '(∩º-º)';
+    color: rgb(250, 255, 11)
+}

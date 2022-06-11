@@ -14,7 +14,7 @@ const CaseHeader = ({topic, title, description, tags=[] }) => {
                         <p>{description}</p>
                         <div className="tags-cont">
                             {tags.map((tag)=>(
-                                 <span className="tag">{tag}</span>
+                                 <span className={"tag "+title}>{tag}</span>
                             ))}
                         </div>
                     </div>

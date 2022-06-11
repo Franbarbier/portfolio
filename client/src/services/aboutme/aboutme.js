@@ -26,7 +26,7 @@ const AboutMe = () => {
                         <div id="personal-info">
                           <div>
                             <span>My name is</span>
-                            <h3>Francisco Barbier</h3>
+                            <h4>Francisco Barbier</h4>
                           </div>
                           <div>
                             <span>I am a</span>
