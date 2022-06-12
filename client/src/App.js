@@ -3,7 +3,7 @@ import './global.css';
 import React, { useState, useEffect } from 'react'
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import Services from './views/Services/Services';
-import Home from './views/Home/Home';
+// import Home from './views/Home/Home';
 
 
 
