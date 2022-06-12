@@ -3,6 +3,7 @@ import './global.css';
 import React, { useState, useEffect } from 'react'
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import Services from './views/Services/Services';
+import Home from './views/Home/Home';
 
 
 
@@ -35,7 +36,7 @@ useEffect(()=>{
 
                 <Switch>
                     <Route exact path="/">
-                       
+                       <Home />
                     </Route>
                     <Route exact path="/expertise">
                         <Services />
