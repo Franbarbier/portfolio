@@ -36,7 +36,7 @@ useEffect(()=>{
 
                 <Switch>
                     <Route exact path="/">
-                       <Home />
+                       {/* <Home /> */}
                     </Route>
                     <Route exact path="/expertise">
                         <Services />
