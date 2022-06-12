@@ -101,7 +101,7 @@ useEffect(()=>{
                                             Make <i className="gradient">them</i><br />remember <div className='gradient txt-effect'><b>you</b></div>.</motion.h1>
                                     </motion.div>
                                     {/* <button className="soft-btn">What i do</button> */}
-                                    <Button text="What i do" link="" id={2}/> 
+                                    <Button text="What i do" link="#what-i-do" id={2}/> 
 
                                 </div>
                             </div>
@@ -168,6 +168,7 @@ useEffect(()=>{
                     <main>
                         <div>
                             <motion.div
+                                id="what-i-do"
                                 className="framerAnim"
                                 initial={{y: 20, opacity: 0}}
                                 whileInView={{y: 0, opacity: 1}}
@@ -188,7 +189,7 @@ useEffect(()=>{
                                 </div>
                                 <br/>
                                 {/* <button className="soft-btn">Check work</button> */}
-                                <Button text="Check work" link="" id={1}/> 
+                                <Button text="Check work" link="#work" id={1}/> 
 
                             </div>
                         </div>

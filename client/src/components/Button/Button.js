@@ -6,7 +6,7 @@ import './Button.css';
 import { motion, useAnimation } from 'framer-motion';
 
 
-const Button = ({text, id}) => {
+const Button = ({text, id, link}) => {
 
 // --- BUTTON
 // const $ = (s, o = document) => o.querySelector(s);
@@ -43,11 +43,11 @@ $$(`.button${id}`).forEach((el) =>
 
   function render(){
       return  <>
-                <div id="Button-view">
+                <a href={link} id="Button-view">
                   <button className={`button button${id}`} cursor="link">
                       <span className="soft-btn">{text}</span>
                   </button>
-                </div>
+                </a>
 
               </>
 

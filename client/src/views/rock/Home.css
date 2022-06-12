@@ -154,7 +154,7 @@
 /* main */
 
 #Home-view main>div{
-    padding: 20% 0;
+    padding: 10% 0;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -162,6 +162,7 @@
     margin: auto
 }
 #Home-view main>div>div{
+    padding: 10% 0;
     width: 45%;
     color: white;
 }
