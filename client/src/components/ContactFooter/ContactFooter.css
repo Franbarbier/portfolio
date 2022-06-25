@@ -133,3 +133,19 @@
     transform: translateX(75%)!important;
     opacity: 1!important;
 }
+
+
+@media (max-width: 800px) {
+
+#ContactFooter-view{
+    padding: 15% 7.6%;
+}
+
+#ContactFooter-view>div>div{
+    flex-direction: column;
+}
+#ContactFooter-view>div>div>div{
+    width: 100%;
+}
+
+}

@@ -443,3 +443,66 @@
     transform-style: preserve-3d;
 }
 
+
+@media (max-width: 800px) {
+
+#Home-view {
+    background-color: #0f0f0f;
+    width: 100vw;
+    overflow: hidden;
+}
+
+#Home-view>div>header>div, #work>div:first-child{
+    flex-direction: column;
+}
+#Home-view>div>header>div>div{
+    width: 100%;
+}
+#txt-cuadrado>div{
+    padding-top: 5%;
+}
+#Home-view>div>header {
+    height: 120vh;
+}
+.txt-cuadradito h5{
+    white-space: nowrap;
+}
+#Home-view main>div{
+    flex-direction: column-reverse;
+}
+
+#Home-view main>div>div {
+    width: 100%;
+    padding: 1%;
+}
+#Button-view .button{
+    margin-top: 20px
+}
+#work>div:first-child>div:first-child{
+    width: 100%;
+    padding-bottom: 15%;
+    position: relative;
+}
+
+#work-cards{
+    width: 100%;
+    border: none;
+    padding: 25% 0 0% 0;
+}
+
+.work-card{
+    height: 50vh;
+}
+#tecnologias h4{
+    margin: 10% 0 15%;
+}
+#tec-logos{
+    height: 60vh;
+}
+#tec-logos>div{
+    width: 400%;
+}
+#tec-logos>div:first-child{padding-top: 13%;}
+#tec-logos>div:last-child{padding-bottom: 13%; top: 33vh}
+
+}

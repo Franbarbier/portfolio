@@ -388,3 +388,27 @@
     87%{ opacity: 1;}
     100%{opacity: 1;}
 }
+
+
+
+
+
+
+@media (max-width: 800px) {
+
+    
+#WireAnimation-view{
+    height: 50vh!important;
+    margin-top: 15%;
+}
+#wire-card{
+    width: 50%;
+}
+#clientes {
+    padding: 20% 7.6%;
+    padding-bottom: 20%;
+}
+
+
+    
+}
