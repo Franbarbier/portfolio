@@ -180,3 +180,23 @@
     z-index: 0;
 }
 
+
+
+@media (max-width: 800px) {
+#info-project{
+    flex-direction: column;
+}
+#info-project>div:last-child{
+    margin-top: 5%;
+}
+
+#info-project p{
+    width: 100%;
+}
+
+#horizontal-cont>div {
+    top: 90vw;
+    left: -5vw;
+}
+
+}

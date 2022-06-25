@@ -505,4 +505,8 @@
 #tec-logos>div:first-child{padding-top: 13%;}
 #tec-logos>div:last-child{padding-bottom: 13%; top: 33vh}
 
+#get-in-touch>div>div>div{
+    overflow: inherit!important;
+}
+
 }
