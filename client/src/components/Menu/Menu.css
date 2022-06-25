@@ -104,3 +104,16 @@
   margin-top: 5%;
   font-size: 1.2em;
 }
+
+@media (max-width: 800px) {
+#menu-hamb{
+  width: 48px;
+}
+#Menu-view nav{
+  top: 2%;
+}
+#opened-menu{
+  right: 5%;
+}
+
+}

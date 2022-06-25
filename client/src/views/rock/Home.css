@@ -459,7 +459,8 @@
     width: 100%;
 }
 #txt-cuadrado>div{
-    padding-top: 5%;
+    padding-top: 12%;
+    padding-left: 5%;
 }
 #Home-view>div>header {
     height: 120vh;
