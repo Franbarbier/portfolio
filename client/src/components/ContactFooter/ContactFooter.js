@@ -9,6 +9,8 @@ import { useInView } from 'react-intersection-observer';
 
 const ContactFooter = ({}) => {
 
+    const [hiddenTxt, setHiddenTxt] = useState(false)
+
     function copyInfo(e) {
         e.preventDefault()
         console.log(e.target)
@@ -31,33 +33,33 @@ const ContactFooter = ({}) => {
         },
         show: {
             opacity : 1 ,
-          transform: "translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0deg, 0deg)",
+            transform: "translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0deg, 0deg)",
         }
     }
 
   function render(){
-      return  <div id="ContactFooter-view">
+      return  <div id="ContactFooter-view" onMouseEnter={()=>setHiddenTxt(true)}>
                 <div id="get-in-touch">
                     <div>
                         <div>
                             <div style={{"overflow":"hidden"}}>
-                            <motion.h5
-                                className="gradient framerAnim"
-                                initial="hidden"
-                                whileInView="show"
-                                viewport={{ once: true }}
-                                variants={textAnim}
-                                >Let's chat,</motion.h5>
+                            <h5
+                                className={`gradient framerAnim ${ hiddenTxt ? "showTxt" : "hiddenTxt" }`}
+                                // initial="hidden"
+                                // whileInView="show"
+                                // viewport={{ once: true }}
+                                // variants={textAnim}
+                                >Let's chat,</h5>
                             </div>
                             <div style={{"overflow":"hidden"}}>
-                            <motion.h5
-                                className="framerAnim"
-                                initial="hidden"
-                                whileInView="show"
-                                viewport={{ once: true }}
-                                transition={{duration: 0.5}}
-                                variants={textAnim}
-                                >get in touch.</motion.h5>
+                            <h5
+                                className={`framerAnim  ${ hiddenTxt ? "showTxt" : "hiddenTxt" }`}
+                                // initial="hidden"
+                                // whileInView="show"
+                                // viewport={{ once: true }}
+                                // transition={{duration: 0.5}}
+                                // variants={textAnim}
+                                >get in touch.</h5>
                             </div>
                         </div>
                         <div id="contact-info">
@@ -73,29 +75,7 @@ const ContactFooter = ({}) => {
                             </a>
                         </div>
                     </div>
-                    {/* <form>
-                        <div>
-                            <label className="tags2">Full name</label>
-                            <input  type="text" name="name" class="inputes" />
-                        </div>
-                        <div>
-                            <label className="tags2">Email</label>
-                            <input  type="email" name="email" class="inputes" />
-                        </div>
-                        <div>
-                            <label className="tags2">Company</label>
-                            <input  type="text" name="company" class="inputes" />
-                        </div>
-                        <div>
-                            <label className="tags2">Phone</label>
-                            <input  type="text" name="phone" class="inputes" />
-                        </div>
-                        <div>
-                            <label className="tags2">Message</label>
-                            <textarea></textarea>
-                        </div>
-                        <button className='soft-btn'>Send</button>
-                    </form> */}
+                    
                 </div> 
               </div>
 

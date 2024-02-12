@@ -109,6 +109,7 @@
 .bckgrnd-cuadradito{
     position: absolute;
     width: 130%;
+    height: 100%;
     opacity: 0;
     transition: 3s cubic-bezier(.31,.96,.32,.99);
     animation-name: parallax;
@@ -149,6 +150,9 @@
 }
 .bckgrnd-cuadradito img{
     width: 100%;
+    user-select: none;
+    object-fit: cover;
+    height: 100%;
 }
 
 /* main */

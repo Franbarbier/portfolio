@@ -1,7 +1,8 @@
 import React, { useState, useEffect } from 'react';
 
 import { AnimatePresence, motion, useAnimation } from 'framer-motion';
-import { useInView } from 'react-intersection-observer';
+// import { useInView } from 'react-intersection-observer';
+import {Link} from 'react-router-dom';
 import './Home.css';
 import WireAnimation from '../../components/wire-animation/Wire-animation';
 import ContactFooter from '../../components/ContactFooter/ContactFooter.js';
@@ -106,7 +107,7 @@ useEffect(()=>{
                                 </div>
                             </div>
                             <div id="cuadraditos">
-                                <a href="/expertise#ProductThinking">
+                                <Link to="/expertise#ProductThinking">
                                     <div className='bckgrnd-cuadradito'>
                                         <img src="https://assets-global.website-files.com/5c5315d7d8fe7d4b71a1e69b/619b68ffe8e2861894b892e1_brand-gradient.jpg" />
                                     </div>
@@ -119,8 +120,8 @@ useEffect(()=>{
                                         <h5>Product thinking</h5>
                                         <img src="https://assets-global.website-files.com/5c51b8093dcfd38165099093/5f959b1cd3283e540294ea95_icon-enclosed-arrow.svg" />    
                                     </motion.div>
-                                </a>
-                                <a href="/expertise#UserOriented">
+                                </Link>
+                                <Link to="/expertise#UserOriented">
                                     <div className='bckgrnd-cuadradito'>
                                         <img src="https://assets-global.website-files.com/5c5315d7d8fe7d4b71a1e69b/619b690611243fbe9247defe_social-gradient.jpg" />
                                     </div>
@@ -133,8 +134,9 @@ useEffect(()=>{
                                         <h5>User oriented</h5>
                                         <img src="https://assets-global.website-files.com/5c51b8093dcfd38165099093/5f959b1cd3283e540294ea95_icon-enclosed-arrow.svg" />    
                                     </motion.div>
-                                </a>
-                                <a href="/expertise#UiMagic">
+                                </Link>
+                                <Link to="/expertise#UiMagic">
+
                                     <div className='bckgrnd-cuadradito'>
                                         <img src="https://assets-global.website-files.com/5c5315d7d8fe7d4b71a1e69b/619b68f7fe06e28555d58883_web-gradient.jpg" />
                                     </div>
@@ -147,8 +149,8 @@ useEffect(()=>{
                                         <h5>UI Magic</h5>
                                         <img src="https://assets-global.website-files.com/5c51b8093dcfd38165099093/5f959b1cd3283e540294ea95_icon-enclosed-arrow.svg" />    
                                     </motion.div>
-                                </a>
-                                <a href="/expertise#ProductPage">
+                                </Link>
+                                <Link to="/expertise#ProductPage">
                                     <div className='bckgrnd-cuadradito'>
                                         <img src="https://assets-global.website-files.com/5c5315d7d8fe7d4b71a1e69b/619b68effe06e2ae7ed58860_video-gradient.jpg" />
                                     </div>
@@ -161,7 +163,7 @@ useEffect(()=>{
                                         <h5>Product pages</h5>
                                         <img src="https://assets-global.website-files.com/5c51b8093dcfd38165099093/5f959b1cd3283e540294ea95_icon-enclosed-arrow.svg" />    
                                     </motion.div>
-                                </a>
+                                </Link>
                             </div>
                         </div>
                     </header>
